@@ -1,0 +1,614 @@
+DISTRICT|FY00
+Manchester Local SD|12474
+Akron City SD|13121
+Alliance City SD|10023
+Ashland City SD|8156
+Ashtabula Area City SD|9456
+Athens City SD|9616
+Barberton City SD|8665
+Bay Village City SD|9659
+Beachwood City SD|17590
+Bedford City SD|9501
+Bellaire Local SD|7023
+Bellefontaine City SD|5971
+Bellevue City SD|6193
+Belpre City SD|4908
+Berea City SD|6431
+Bexley City SD|6746
+Bowling Green City SD|14348
+Brecksville-Broadview Height|10260
+Brooklyn City SD|11871
+Brunswick City SD|9516
+Bryan City SD|8676
+Bucyrus City SD|8579
+Cambridge City SD|9010
+Campbell City SD|8844
+Canton City SD|8429
+Celina City SD|10370
+Centerville City SD|7472
+Chillicothe City SD|7655
+Cincinnati City SD|6510
+Circleville City SD|8005
+Claymont City SD|5317
+Cleveland Municipal SD|5216
+Cleveland Hts-Univ Hts City|6649
+Columbus City SD|8049
+Conneaut Area City SD|18974
+Coshocton City SD|14967
+Cuyahoga Falls City SD|9599
+Dayton City SD|8800
+Deer Park Community City SD|8999
+Defiance City SD|13531
+Delaware City SD|10053
+Delphos City SD|8370
+Dover City SD|8394
+East Cleveland City SD|6966
+East Liverpool City SD|7007
+East Palestine City SD|10391
+Eaton Community Schools City|7278
+Elyria City SD|5243
+Euclid City SD|5555
+Fairborn City SD|5915
+Fairview Park City SD|7294
+Findlay City SD|4571
+Fostoria City SD|9887
+Franklin City SD|11471
+Fremont City SD|10091
+Galion City SD|11191
+Gallipolis City SD|9249
+Garfield Heights City SD|8707
+Geneva Area City SD|8265
+Girard City SD|8437
+Grandview Heights City SD|8804
+Winton Woods City SD|6765
+Greenville City SD|7295
+Hamilton City SD|9505
+Heath City SD|7480
+Hillsboro City SD|5684
+Huron City SD|5632
+Ironton City SD|5965
+Jackson City SD|4621
+Kent City SD|5740
+Kenton City SD|10734
+Kettering City SD|9147
+Lakewood City SD|8989
+Lancaster City SD|11836
+Lebanon City SD|9023
+Lima City SD|10998
+Lockland City SD|11146
+Logan-Hocking Local SD|8972
+London City SD|7424
+Lorain City SD|9059
+Loveland City SD|12875
+Madeira City SD|6015
+Mansfield City SD|5702
+Maple Heights City SD|7463
+Mariemont City SD|5440
+Marietta City SD|6269
+Marion City SD|6578
+Martins Ferry City SD|5693
+Massillon City SD|10916
+Maumee City SD|12522
+Mayfield City SD|8067
+Medina City SD|9467
+Miamisburg City SD|9145
+Middletown City SD|10406
+Mount Healthy City SD|10022
+Mount Vernon City SD|11680
+Napoleon City SD|9551
+Nelsonville-York City SD|7731
+Newark City SD|8514
+New Boston Local SD|7938
+New Lexington City SD|6140
+New Philadelphia City SD|6240
+Niles City SD|6117
+North Canton City SD|5938
+North College Hill City SD|6408
+North Olmsted City SD|4865
+North Ridgeville City SD|4319
+North Royalton City SD|8639
+Norton City SD|8788
+Norwalk City SD|9240
+Norwood City SD|9339
+Oakwood City SD|11531
+Oberlin City SD|8558
+Oregon City SD|9019
+Orrville City SD|7652
+Painsville City Local SD|6501
+Parma City SD|9110
+Piqua City SD|8487
+Port Clinton City SD|9793
+Portsmouth City SD|7498
+Princeton City SD|5910
+Ravenna City SD|7757
+Reading Community City SD|7029
+Rocky River City SD|5055
+St Bernard-Elmwood Place Cit|5920
+St Marys City SD|5425
+Salem City SD|11526
+Sandusky City SD|15270
+Shaker Heights City SD|10022
+Sheffield-Sheffield Lake Cit|9280
+Shelby City SD|11196
+Sidney City SD|12224
+South Euclid-Lyndhurst City|7615
+South-Western City SD|8151
+Springfield City SD|9491
+Steubenville City SD|12924
+Stow-Munroe Falls City SD|8413
+Strongsville City SD|7489
+Struthers City SD|5790
+Sycamore Community City SD|8935
+Sylvania City SD|6207
+Tallmadge City SD|5662
+Tiffin City SD|5304
+Toledo City SD|4895
+Toronto City SD|9611
+Troy City SD|11563
+Upper Arlington City SD|8164
+Urbana City SD|13522
+Vandalia-Butler City SD|10537
+Van Wert City SD|9652
+Wadsworth City SD|7683
+Wapakoneta City SD|10604
+Warren City SD|7316
+Warrensville Heights City SD|7521
+Washington Court House City|10750
+Wellston City SD|6592
+Wellsville Local SD|6995
+Westerville City SD|5468
+West Carrollton City SD|6352
+Westlake City SD|4904
+Whitehall City SD|6113
+Wickliffe City SD|7591
+Willard City SD|4536
+Willoughby-Eastlake City SD|6031
+Wilmington City SD|11251
+Wooster City SD|9239
+Worthington City SD|10426
+Wyoming City SD|9738
+Xenia Community City SD|11518
+Youngstown City SD|10023
+Zanesville City SD|9851
+Ada Ex Vill SD|7490
+Amherst Ex Vill SD|8239
+Barnesville Ex Vill SD|5895
+Bluffton Ex Vill SD|8444
+Bradford Ex Vill SD|8644
+Bridgeport Ex Vill SD|7929
+Harrison Hills City SD|5461
+Caldwell Ex Vill SD|7542
+Carey Ex Vill SD|5258
+Carrollton Ex Vill SD|4802
+Chagrin Falls Ex Vill SD|8995
+Chesapeake Union Ex Vill SD|8972
+Clyde-Green Springs Ex Vill|9004
+Coldwater Ex Vill SD|8008
+Columbiana Ex Vill SD|9145
+Covington Ex Vill SD|9618
+Crestline Ex Vill SD|8310
+Crooksville Ex Vill SD|7766
+Fairport Harbor Ex Vill SD|7069
+Georgetown Ex Vill SD|6688
+Gibsonburg Ex Vill SD|9430
+Granville Ex Vill SD|6469
+Greenfield Ex Vill SD|6459
+Hicksville Ex Vill SD|5621
+Hubbard Ex Vill SD|5811
+Indian Hill Ex Vill SD|5509
+Leetonia Ex Vill SD|5924
+Lisbon Ex Vill SD|5053
+Loudonville-Perrysville Ex V|9896
+Marysville Ex Vill SD|9313
+Mechanicsburg Ex Vill SD|7963
+Mentor Ex Vill SD|8167
+Milford Ex Vill SD|9277
+Milton-Union Ex Vill SD|8048
+Montpelier Ex Vill SD|7623
+Mount Gilead Ex Vill SD|7534
+Newcomerstown Ex Vill SD|11199
+New Richmond Ex Vill SD|6732
+Newton Falls Ex Vill SD|6047
+Paulding Ex Vill SD|7154
+Perrysburg Ex Vill SD|6921
+Rittman Ex Vill SD|5396
+Rossford Ex Vill SD|6316
+Tipp City Ex Vill SD|4869
+Upper Sandusky Ex Vill SD|4662
+Versailles Ex Vill SD|4803
+Wauseon Ex Vill SD|4315
+Wellington Ex Vill SD|9943
+Windham Ex Vill SD|9790
+Yellow Springs Ex Vill SD|10921
+Allen East Local SD|7908
+Bath Local SD|8953
+Elida Local SD|9893
+Perry Local SD|7732
+Shawnee Local SD|10816
+Spencerville Local SD|7191
+Hillsdale Local SD|7258
+Mapleton Local SD|6396
+Buckeye Local SD|6112
+Grand Valley Local SD|6862
+Jefferson Area Local SD|7189
+Pymatuning Valley Local SD|8323
+Alexander Local SD|4959
+Federal Hocking Local SD|6222
+Trimble Local SD|4116
+Minster Local SD|5126
+New Bremen Local SD|8977
+New Knoxville Local SD|9103
+Waynesfield-Goshen Local SD|9099
+St Clairsville-Richland City|8063
+Shadyside Local SD|7801
+Union Local SD|9100
+Eastern Local SD|8047
+Fayetteville-Perry Local SD|7270
+Western Brown Local SD|7560
+Ripley-Union-Lewis Local SD|7711
+Edgewood City SD|8114
+Fairfield City SD|8249
+Lakota Local SD|6901
+Madison Local SD|5889
+New Miami Local SD|6664
+Ross Local SD|6168
+Talawanda City SD|4595
+Brown Local SD|5151
+Graham Local SD|4004
+Triad Local SD|2697
+West Liberty-Salem Local SD|9120
+Greenon Local SD|9733
+Tecumseh Local SD|7800
+Northeastern Local SD|9058
+Northwestern Local SD|8050
+Southeastern Local SD|8313
+Clark-Shawnee Local SD|8026
+Batavia Local SD|7568
+Bethel-Tate Local SD|7869
+Clermont-Northeastern Local|6743
+Felicity-Franklin Local SD|6599
+Goshen Local SD|5577
+West Clermont Local SD|5803
+Williamsburg Local SD|5706
+Blanchester Local SD|5246
+Clinton-Massie Local SD|4487
+East Clinton Local SD|4662
+Beaver Local SD|9416
+Crestview Local SD|8458
+Southern Local SD|8252
+United Local SD|8114
+Ridgewood Local SD|8000
+River View Local SD|8417
+Buckeye Central Local SD|7237
+Colonel Crawford Local SD|7941
+Wynford Local SD|8148
+Cuyahoga Heights Local SD|8289
+Independence Local SD|6906
+Olmsted Falls City SD|6469
+Orange City SD|10173
+Richmond Heights Local SD|6067
+Solon City SD|5650
+Ansonia Local SD|5216
+Arcanum Butler Local SD|5239
+Franklin-Monroe Local SD|5282
+Mississinawa Valley Local SD|4036
+Tri-Village Local SD|8727
+Ayersville Local SD|9317
+Central Local SD|9295
+Northeastern Local SD|9767
+Big Walnut Local SD|8601
+Buckeye Valley Local SD|8167
+Olentangy Local SD|17811
+Berlin-Milan Local SD|11123
+Kelleys Island Local SD|8926
+Margaretta Local SD|14859
+Perkins Local SD|9052
+Vermilion Local SD|9651
+Amanda-Clearcreek Local SD|7276
+Berne Union Local SD|5534
+Bloom Carroll Local SD|5546
+Fairfield Union Local SD|6362
+Liberty Union-Thurston Local|5354
+Pickerington Local SD|4630
+Walnut Township Local SD|9643
+Miami Trace Local SD|8324
+Canal Winchester Local SD|8858
+Hamilton Local SD|9675
+Gahanna-Jefferson City SD|9457
+Groveport Madison Local SD|9187
+Plain Local SD|8505
+Reynoldsburg City SD|40672
+Hilliard City SD|8367
+Dublin City SD|8556
+Archbold-Area Local SD|7898
+Evergreen Local SD|6541
+Gorham Fayette Local SD|5996
+Pettisville Local SD|5838
+Pike-Delta-York Local SD|6051
+Swanton Local SD|5816
+Berkshire Local SD|5535
+Cardinal Local SD|5357
+Chardon Local SD|7525
+Kenston Local SD|9399
+Ledgemont Local SD|10508
+Newbury Local SD|8945
+West Geauga Local SD|11288
+Beavercreek City SD|9646
+Cedar Cliff Local SD|10947
+Greeneview Local SD|8662
+Sugarcreek Local SD|9806
+Rolling Hills Local SD|10548
+Finneytown Local SD|8386
+Forest Hills Local SD|7920
+Northwest Local SD|8738
+Oak Hills Local SD|6900
+Southwest Local SD|6638
+Three Rivers Local SD|5975
+Arcadia Local SD|6133
+Arlington Local SD|6338
+Cory-Rawson Local SD|5391
+Liberty Benton Local SD|6350
+McComb Local SD|11377
+Van Buren Local SD|10972
+Vanlue Local SD|11529
+Hardin Northern Local SD|11164
+Ridgemont Local SD|11376
+Riverdale Local SD|8587
+Upper Scioto Valley Local SD|7081
+Conotton Valley Union Local|8026
+Holgate Local SD|7271
+Liberty Center Local SD|9008
+Patrick Henry Local SD|7358
+Bright Local SD|7130
+Fairfield Local SD|5823
+Lynchburg-Clay Local SD|5522
+East Holmes Local SD|5689
+West Holmes Local SD|5178
+Monroeville Local SD|4556
+New London Local SD|5636
+South Central Local SD|10910
+Western Reserve Local SD|8781
+Oak Hill Union Local SD|9724
+Buckeye Local SD|8590
+Edison Local SD|10255
+Indian Creek Local SD|7643
+Centerburg Local SD|7780
+Danville Local SD|7878
+East Knox Local SD|7418
+Fredericktown Local SD|8462
+Kirtland Local SD|7661
+Madison Local SD|6411
+Painsville Township Local SD|7722
+Perry Local SD|6295
+Dawson-Bryant Local SD|5644
+Fairland Local SD|4567
+Rock Hill Local SD|5576
+South Point Local SD|4050
+Symmes Valley Local SD|4680
+Johnstown-Monroe Local SD|9400
+Lakewood Local SD|8963
+Licking Heights Local SD|9739
+Licking Valley Local SD|8788
+North Fork Local SD|8286
+Northridge Local SD|9090
+Southwest Licking Local SD|8926
+Benjamin Logan Local SD|7377
+Indian Lake Local SD|7164
+Riverside Local SD|7809
+Avon Local SD|6320
+Avon Lake City SD|7229
+Clearview Local SD|9058
+Columbia Local SD|6486
+Firelands Local SD|6926
+Keystone Local SD|11228
+Midview Local SD|5745
+Anthony Wayne Local SD|4087
+Ottawa Hills Local SD|4523
+Springfield Local SD|11883
+Washington Local SD|8477
+Jefferson Local SD|11364
+Jonathan Alder Local SD|8026
+Madison-Plains Local SD|9154
+Austintown Local SD|8201
+Boardman Local SD|7599
+Canfield Local SD|7099
+Jackson-Milton Local SD|7542
+Lowellville Local SD|7842
+Poland Local SD|6128
+Sebring Local SD|6631
+South Range Local SD|6562
+Springfield Local SD|5449
+West Branch Local SD|6659
+Western Reserve Local SD|5542
+Elgin Local SD|5189
+Pleasant Local SD|4281
+Ridgedale Local SD|8970
+River Valley Local SD|8834
+Black River Local SD|7378
+Buckeye Local SD|7523
+Cloverleaf Local SD|13510
+Highland Local SD|8991
+Eastern Local SD|9993
+Meigs Local SD|7632
+Southern Local SD|6529
+Marion Local SD|6843
+Parkway Local SD|7782
+St Henry Consolidated Local|7367
+Fort Recovery Local SD|6315
+Bethel Local SD|6312
+Miami East Local SD|5286
+Newton Local SD|5300
+Switzerland Of Ohio Local SD|5545
+Brookville Local SD|5143
+Jefferson Township Local SD|5025
+Trotwood-Madison City SD|5025
+Mad River Local SD|9014
+New Lebanon Local SD|9023
+Northmont City SD|8919
+Northridge Local SD|7903
+Valley View Local SD|8426
+Huber Heights City SD|7628
+Morgan Local SD|8096
+Cardington-Lincoln Local SD|8347
+Highland Local SD|7000
+Northmor Local SD|7154
+East Muskingum Local SD|7003
+Franklin Local SD|7470
+Maysville Local SD|6850
+Tri-Valley Local SD|5272
+West Muskingum Local SD|5594
+Noble Local SD|5094
+Benton Carroll Salem Local S|5006
+Danbury Local SD|4527
+Genoa Area Local SD|8826
+North Bass Local SD|9457
+Put-In-Bay Local SD|9040
+Antwerp Local SD|9612
+Wayne Trace Local SD|8109
+Northern Local SD|13123
+Southern Local SD|10077
+Logan Elm Local SD|8971
+Teays Valley Local SD|7419
+Westfall Local SD|7375
+Eastern Local SD|10071
+Scioto Valley Local SD|7359
+Waverly City SD|5839
+Western Local SD|6450
+Aurora City SD|4977
+Crestwood Local SD|4764
+Field Local SD|4461
+James A Garfield Local SD|4296
+Rootstown Local SD|8657
+Southeast Local SD|9074
+Streetsboro City SD|8826
+Waterloo Local SD|8372
+National Trail Local SD|7831
+Preble-Shawnee Local SD|7793
+Twin Valley Community Local|9900
+Columbus Grove Local SD|12417
+Continental Local SD|7200
+Jennings Local SD|48745
+Kalida Local SD|28409
+Leipsic Local SD|8458
+Miller City-New Cleveland Lo|8703
+Ottawa-Glandorf Local SD|7879
+Ottoville Local SD|9566
+Pandora-Gilboa Local SD|8273
+Clear Fork Valley Local SD|7656
+Crestview Local SD|7174
+Lexington Local SD|7430
+Lucas Local SD|6185
+Madison Local SD|5680
+Plymouth-Shiloh Local SD|5958
+Ontario Local SD|6527
+Adena Local SD|5004
+Huntington Local SD|4709
+Paint Valley Local SD|4512
+Southeastern Local SD|8485
+Union Scioto Local SD|8317
+Zane Trace Local SD|8781
+Lakota Local SD|10027
+Woodmore Local SD|7834
+Bloom-Vernon Local SD|8450
+Clay Local SD|8105
+Green Local SD|7735
+Minford Local SD|6770
+Northwest Local SD|8704
+Valley Local SD|6669
+Washington-Nile Local SD|5866
+Wheelersburg Local SD|6474
+Seneca East Local SD|7948
+Bettsville Local SD|5084
+Hopewell-Loudon Local SD|4531
+New Riegel Local SD|5230
+Old Fort Local SD|4481
+Anna Local SD|8118
+Botkins Local SD|8878
+Fairlawn Local SD|8959
+Fort Loramie Local SD|7819
+Hardin-Houston Local SD|10050
+Jackson Center Local SD|8514
+Russia Local SD|7484
+Canton Local SD|7601
+Fairless Local SD|7449
+Jackson Local SD|7212
+Lake Local SD|6250
+Louisville City SD|5719
+Marlington Local SD|5593
+Minerva Local SD|5858
+Northwest Local SD|5263
+Osnaburg Local SD|5478
+Perry Local SD|4852
+Plain Local SD|4467
+Sandy Valley Local SD|10163
+Tuslaw Local SD|8570
+Woodridge Local SD|10077
+Copley-Fairlawn City SD|10006
+Coventry Local SD|8629
+Manchester Local SD|7983
+Green Local SD|7380
+Hudson Local SD|9228
+Mogadore Local SD|6710
+Nordonia Hills City SD|6829
+Revere Local SD|7046
+Springfield Local SD|6033
+Twinsburg City SD|5864
+Bloomfield-Mespo Local SD|5952
+Bristol Local SD|5388
+Brookfield Local SD|5171
+Champion Local SD|4958
+Mathews Local SD|5024
+Howland Local SD|6497
+Joseph Badger Local SD|11403
+Lakeview Local SD|8938
+Liberty Local SD|8899
+Lordstown Local SD|8546
+Maplewood Local SD|7697
+McDonald Local SD|8933
+Southington Local SD|7165
+La Brae Local SD|7361
+Weathersfield Local SD|7046
+Garaway Local SD|6858
+Indian Valley Local SD|6559
+Strasburg-Franklin Local SD|6453
+Tuscarawas Valley Local SD|5538
+Fairbanks Local SD|7458
+North Union Local SD|6932
+Crestview Local SD|5407
+Lincolnview Local SD|5179
+Vinton County Local SD|4809
+Carlisle Local SD|9456
+Springboro Community City SD|13671
+Kings Local SD|10329
+Little Miami Local SD|10201
+Mason City SD|11087
+Wayne Local SD|10045
+Fort Frye Local SD|8946
+Frontier Local SD|8767
+Warren Local SD|7162
+Wolf Creek Local SD|7361
+Chippewa Local SD|7468
+Dalton Local SD|7815
+Green Local SD|6686
+North Central Local SD|5046
+Northwestern Local SD|5218
+Southeast Local SD|5548
+Triway Local SD|7186
+Edgerton Local SD|4273
+Edon-Northwest Local SD|9850
+Millcreek-West Unity Local S|5060
+North Central Local SD|6970
+Stryker Local SD|9084
+Eastwood Local SD|9346
+Elmwood Local SD|8693
+Lake Local SD|7371
+North Baltimore Local SD|6826
+Northwood Local SD|6926
+Otsego Local SD|7746
+Mohawk Local SD|7018
+Ohio Valley Local SD|5971
+College Corner Local SD|6745
+Gallia County Local SD|5625
+East Guernsey Local SD|6607
+Tri-County North Local SD|5103
+Monroe Local SD|5476

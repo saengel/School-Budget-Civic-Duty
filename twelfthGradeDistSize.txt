@@ -1,0 +1,865 @@
+,
+,
+District,12th Grade
+,
+Adams County/Ohio Valley Local, 	306 
+Manchester Local Local SD, 	33 
+Allen East Local SD, 	90 
+Bath Local SD, 	155 
+Bluffton Ex Vill SD, 	101 
+Delphos City SD, 	79 
+Elida Local SD, 	210 
+Heir Force Community School, 	-   
+Lima City SD, 	301 
+Perry Local SD, 	68 
+Quest Academy Community, 	-   
+Shawnee Local SD, 	203 
+Spencerville Local SD, 	79 
+WCLA,<10
+Ashland City SD, 	324 
+Hillsdale Local SD, 	81 
+Loudonville-Perrysville Ex Vil, 	103 
+Mapleton Local SD, 	83 
+Ashtabula Area City SD, 	302 
+Buckeye Local SD, 	165 
+Conneaut Area City SD, 	166 
+Geneva Schools City SD, 	241 
+Grand Valley Local SD, 	106 
+Jefferson Area Local SD, 	175 
+Pymatuning Valley Local SD, 	121 
+Alexander Local SD, 	114 
+Athens City SD, 	222 
+Federal Hocking Local SD, 	121 
+Nelsonville-York City SD, 	82 
+Trimble Local SD, 	60 
+Auglaize County Educational,<10
+Auglaize County Special Needs,<10
+Minster Community School, 	-   
+Minster Local SD, 	75 
+New Bremen Local SD, 	96 
+New Knoxville Local SD, 	33 
+St Marys City SD, 	242 
+Wapakoneta City SD, 	288 
+Waynesfield-Goshen Local SD, 	38 
+Barnesville Ex Vill SD, 	94 
+Bellaire Local SD, 	110 
+Bridgeport Ex Vill SD, 	56 
+Martins Ferry City SD, 	136 
+Shadyside Local SD, 	76 
+St Clairsville-Richland City S, 	140 
+Union Local SD, 	138 
+Eastern Local SD, 	119 
+Fayetteville-Perry Local SD, 	67 
+Georgetown Ex Vill SD, 	73 
+Ripley-Union-Lewis-Huntington, 	99 
+Western Brown Local SD, 	223 
+Edgewood City SD, 	260 
+Fairfield City SD, 	693 
+Hamilton City SD, 	581 
+Lakota Local SD," 	1
+Life Skills Center-Middletown, 	60 
+Madison Local SD, 	98 
+Middletown City SD, 	367 
+Middletown Fitness & Prep Acad, 	-   
+Monroe Local SD, 	99 
+New Miami Local SD, 	73 
+Ross Local SD, 	205 
+Summit Academy-Middletown, 	-   
+Talawanda City SD, 	268 
+Brown Local SD, 	81 
+Carrollton Ex Vill SD, 	224 
+Graham Digital Academy, 	25 
+Graham Local SD, 	153 
+Mechanicsburg Ex Vill SD, 	56 
+Triad Local SD, 	72 
+Urbana City SD, 	123 
+Urbana Community School,<10
+West Liberty-Salem Local SD, 	108 
+Clark-Shawnee Local SD, 	205 
+Greenon Local SD, 	156 
+Greenon Virtual School, 	13 
+Life Skills Center-Springfield, 	28 
+Northeastern Local SD, 	231 
+Northwestern Local SD, 	159 
+Southeastern Local SD, 	57 
+Springfield Acad Of Excellence, 	-   
+Springfield City SD, 	535 
+Springfield Prep & Fitness, 	-   
+Tecumseh Local SD, 	246 
+"Urban Youth Academy, 	11 
+Batavia Local SD, 	105 
+Bethel-Tate Local SD, 	132 
+Clermont Northeastern Local SD, 	138 
+Felicity-Franklin Local SD, 	94 
+Goshen Local SD, 	215 
+Milford Ex Vill SD, 	415 
+New Richmond Ex Vill SD, 	180 
+West Clermont Local SD, 	577 
+Williamsburg Local SD, 	69 
+Blanchester Local SD, 	117 
+Clinton-Massie Local SD, 	124 
+East Clinton Local SD, 	107 
+Wilmington City SD, 	220 
+Beaver Local SD, 	179 
+Buckeye On-Line School, 	37 
+Columbiana Ex Vill SD, 	87 
+Crestview Local SD, 	75 
+East Liverpool City SD, 	253 
+East Palestine City SD, 	115 
+Leetonia Schools Ex Vill SD, 	60 
+Lisbon Ex Vill SD, 	83 
+Salem City SD, 	183 
+Southern Local SD, 	58 
+United Local SD, 	132 
+Wellsville Local SD, 	68 
+Coshocton City SD, 	152 
+Ridgewood Local SD, 	118 
+River View Local SD, 	216 
+Buckeye Central Local SD, 	50 
+Bucyrus City SD, 	130 
+Colonel Crawford Local SD, 	90 
+Crestline Ex Vill SD, 	75 
+Galion City SD, 	146 
+Wynford Local SD, 	91 
+Academy of Cleveland, 	-   
+Apex Academy, 	-   
+Bay Village City SD, 	204 
+Beachwood City SD, 	211 
+Bedford City SD, 	260 
+Berea City SD, 	537 
+Brecksville-Broadview Heights, 	378 
+Brooklyn City SD, 	78 
+Chagrin Falls Ex Vill SD, 	173 
+Citizens Academy, 	-   
+Cleve. Hts.-Univ. Hts. City SD, 	423 
+Cleveland Academy for Scholar, 	37 
+Cleveland Municipal SD," 	5
+Cuyahoga Heights Local SD, 	61 
+East Cleveland City SD, 	353 
+Education Alternatives Communi,<10
+Euclid City SD, 	475 
+Fairview Park City SD, 	195 
+Garfield Heights City SD, 	239 
+Greater Achievement Community, 	-   
+Greater Cleveland Academy Gift, 	-   
+Greater Heights Academy, 	-   
+Hope Academy Broadway Campus, 	-   
+Hope Academy Cathedral Campus, 	-   
+Hope Academy Chapelside Campus, 	-   
+Hope Academy Cuyahoga Campus, 	-   
+Hope Academy East Campus, 	-   
+Hope Academy Lincoln Park, 	-   
+Hope Academy Northwest Campus, 	-   
+Hope Northcoast Academy, 	-   
+Horizon Science Acad Cleveland, 	54 
+Imani Leadership Institute, 	-   
+Independence Local SD, 	110 
+"Intergenerational School, 	-   
+Lakewood City SD, 	512 
+Life Skills Cntr Metro Cleve, 	11 
+Life Skills Ctr Of Cleveland, 	92 
+Life Skills Ctr Of Lake Erie, 	50 
+Life Skills Of Northeast Ohio, 	44 
+Lorain Academy For Gifted, 	-   
+Madison Community School, 	-   
+Maple Heights City SD, 	217 
+Marcus Garvey Academy, 	-   
+Mayfield City SD, 	476 
+North Olmsted City SD, 	351 
+North Royalton City SD, 	331 
+Old Brooklyn Montessori School, 	-   
+Olmsted Falls City SD, 	276 
+Orange City SD, 	190 
+Parma City SD,496 "
+Parma Community, 	-   
+Pinnacle Academy, 	-   
+Puritas Community School, 	-   
+Richmond Heights Local SD, 	82 
+Rocky River City SD, 	201 
+Shaker Heights City SD, 	416 
+Solon City SD, 	406 
+South Euclid-Lyndhurst City SD, 	429 
+Stockyard Community School, 	-   
+Strongsville City SD, 	594 
+Summit Academy-Parma, 	-   
+The International Prep, 	26 
+"Virtual Schoolhouse, 	13 
+Warrensville Heights City SD, 	200 
+Washington Park Community, 	-   
+Westlake City SD, 	284 
+Westpark Community-Cleveland, 	-   
+Wilson Military Academy,<10
+Ansonia Local SD, 	50 
+Arcanum Butler Local SD, 	89 
+Franklin Monroe Local SD, 	60 
+Greenville City SD, 	250 
+Mississinawa Valley Local SD, 	45 
+Tri-Village Local SD, 	67 
+Versailles Ex Vill SD, 	103 
+Ayersville Local SD, 	80 
+Central Local Schools Local SD, 	80 
+Defiance City SD, 	197 
+Hicksville Ex Vill SD, 	76 
+Northeastern Local SD, 	104 
+Big Walnut Local SD, 	185 
+Buckeye Valley Local SD, 	159 
+Delaware City SD, 	312 
+Olentangy Local SD, 	473 
+Berlin-Milan Local SD, 	128 
+Huron City SD, 	134 
+Kelleys Island Local SD,<10
+Margaretta Local SD, 	121 
+Perkins Local SD, 	195 
+Sandusky City SD, 	309 
+Vermilion Local SD, 	195 
+Amanda Clearcreek Digital Admy, 	-   
+Amanda-Clearcreek Local SD, 	123 
+Berne Union Local SD, 	99 
+Bloom-Carroll Local SD, 	129 
+Fairfield Union Local SD, 	139 
+Lancaster City SD, 	405 
+Lancaster Digital Academy,<10
+Lancaster Fairfield Alternativ,<10
+Liberty Union-Thurston Local S, 	87 
+Pickerington Local SD, 	644 
+Walnut Township Local SD, 	55 
+Miami Trace Local SD, 	204 
+Washington Court House City SD, 	149 
+A+ Arts Academy, 	-   
+Arts & College Preparatory Aca, 	14 
+Bexley City SD, 	204 
+Canal Winchester Local SD, 	164 
+Chase Academy for Communicatio, 	-   
+Columbus Arts & Tech Academy, 	-   
+Columbus City SD," 	4
+"Columbus Humanities, 	-   
+Columbus Preparatory Academy, 	-   
+Columbus Youth,<10
+Cornerstone Academy Community, 	-   
+Crittenton Community School, 	-   
+Crossroads Preparatory, 	-   
+Dublin City SD," 	1
+Electronic Classrm Of Tomorrow," 	1
+FCI Academy, 	-   
+Gahanna-Jefferson City SD, 	543 
+"Graham School, 	79 
+Grandview Heights City SD, 	95 
+Granville T Woods Comm Shule, 	-   
+Great Western Academy, 	-   
+Groveport Madison Local SD, 	383 
+Hamilton Local Digital Academy,<10
+Hamilton Local Local SD, 	212 
+Hilliard City SD," 	1
+Horizon Science Acad Columbus,<10
+International Acad Of Columbus, 	-   
+Life Skills Ctr Of N. Columbus, 	98 
+Life Skills Ctr Of Se Columbus, 	41 
+Life Skills Ctr Of Sw Columbus, 	39 
+Millennium Community, 	-   
+Montessori Renaissance Exp, 	-   
+New Albany-Plain Local Local S, 	143 
+Northland Prep & fitness, 	-   
+Oakstone Community School, 	-   
+Ohio Connections Academy, 	-   
+Reynoldsburg City SD, 	444 
+Scholarts Career Center, 	-   
+Scholarts Preparatory School, 	-   
+South-Western City SD," 	1
+The Harte School - Columbus, 	-   
+Upper Arlington City SD, 	481 
+Upper Arlington International, 	-   
+Virtual Community Sch Of Ohio, 	60 
+Vision Into Action, 	-   
+W C Cupe Community School, 	-   
+Westerville City SD,080 "
+Whitehall City SD, 	179 
+Whitehall Prep & Fitness, 	-   
+Worthington City SD, 	831 
+Youthbuild Columbus Community, 	13 
+Archbold-Area Local SD, 	117 
+Evergreen Local SD, 	114 
+Gorham Fayette Local SD, 	41 
+Pettisville School Local SD, 	39 
+Pike-Delta-York Local SD, 	129 
+Swanton Local SD, 	132 
+Wauseon Ex Vill SD, 	168 
+Gallia County Local SD, 	197 
+Gallipolis City SD, 	155 
+Berkshire Local SD, 	105 
+Cardinal Local SD, 	113 
+Chardon Local SD, 	253 
+Kenston Local SD, 	241 
+Ledgemont Local SD, 	36 
+Newbury Local SD, 	63 
+West Geauga Local SD, 	215 
+Beavercreek City SD, 	566 
+Cedar Cliff Local SD, 	54 
+Fairborn Digital Academy, 	12 
+Fairborn Schools City SD, 	306 
+Greeneview Local SD, 	111 
+Sugarcreek Local SD, 	205 
+Summit Academy-Xenia, 	-   
+Xenia Community City SD, 	333 
+Yellow Springs Ex Vill SD, 	56 
+Cambridge City SD, 	177 
+East Guernsey Local SD, 	100 
+Rolling Hills Local SD, 	145 
+A.B. Miree Fundamental Academy, 	-   
+Alliance Academy of Cincinnati, 	-   
+Cincinnati City SD,909 "
+Cincinnati College Prep Acad, 	-   
+Deer Park Community City SD, 	113 
+Dohn Community,<10
+East End Comm Heritage School,<10
+Finneytown Local SD, 	151 
+Forest Hills Local SD, 	660 
+Greater Cincinnati Community, 	-   
+Hamilton Cnty Math & Science, 	-   
+Harmony Community School, 	-   
+Indian Hill Ex Vill SD, 	155 
+International College Prep, 	-   
+King Academy Community Sch, 	-   
+Life Skills Ctr Of Cincinnati, 	64 
+Life Skills Ctr Of Hamilton Co, 	46 
+Lighthouse Community Sch Inc,<10
+Lockland Local SD, 	58 
+Loveland City SD, 	279 
+Madeira City SD, 	120 
+Mariemont City SD, 	129 
+Maud Booth Academy, 	-   
+Mt Healthy City SD, 	196 
+North College Hill City SD, 	87 
+Northwest Local SD, 	746 
+Norwood City Schools City SD, 	174 
+Oak Hills Local SD, 	733 
+Oak Tree Montessori, 	-   
+Orion Academy, 	-   
+P.A.C.E. High School, 	33 
+Phoenix Community Learning Ctr, 	-   
+Princeton City SD, 	469 
+Reading Community City SD, 	113 
+Riverside Academy, 	-   
+Southwest Local SD, 	332 
+St Bernard-Elmwood Place City, 	46 
+Sycamore Community City SD, 	475 
+T.C.P. World Academy, 	-   
+Three Rivers Local SD, 	154 
+W.E.B. Dubois, 	-   
+Winton Woods City SD, 	243 
+Wyoming City SD, 	160 
+Arcadia Local SD, 	55 
+Arlington Local SD, 	51 
+Cory-Rawson Local SD, 	65 
+Findlay City SD, 	528 
+Liberty-Benton Local SD, 	96 
+McComb Local Local SD, 	58 
+Van Buren Local SD, 	80 
+Vanlue Local SD, 	14 
+Ada Ex Vill SD, 	60 
+Hardin Northern Local SD, 	42 
+Kenton City SD, 	166 
+Ridgemont Local SD, 	52 
+Riverdale Local SD, 	72 
+Upper Scioto Valley Local SD, 	53 
+Conotton Valley Union Local SD, 	40 
+Harrison Hills City SD, 	156 
+Holgate Local SD, 	34 
+Liberty Center Local SD, 	98 
+Napoleon Area City SD, 	193 
+Patrick Henry Local SD, 	89 
+Bright Local SD, 	71 
+Fairfield Local SD, 	71 
+Greenfield Ex Vill SD, 	128 
+Hillsboro City SD, 	194 
+Lynchburg-Clay Local SD, 	89 
+Logan-Hocking Local SD, 	287 
+East Holmes Local SD, 	47 
+West Holmes Local SD, 	176 
+Bellevue City SD, 	188 
+Monroeville Local SD, 	72 
+New London Local SD, 	79 
+Norwalk City SD, 	178 
+South Central Local SD, 	65 
+Western Reserve Local SD, 	95 
+Willard City SD, 	151 
+Jackson City SD, 	207 
+Oak Hill Union Local SD, 	96 
+Wellston City SD, 	130 
+Buckeye Local Local SD, 	178 
+Edison Local SD, 	195 
+Indian Creek Local SD, 	173 
+Steubenville City SD, 	192 
+Toronto City SD, 	74 
+Centerburg Local SD, 	72 
+Danville Local SD, 	57 
+East Knox Local SD, 	97 
+Fredericktown Local SD, 	85 
+Mount Vernon City SD, 	310 
+Fairport Harbor Ex Vill SD, 	52 
+Kirtland Local SD, 	79 
+Madison Local SD, 	276 
+Mentor Ex Vill SD, 	796 
+Painesville City Local SD, 	134 
+Painesville Township Local Loc, 	308 
+Perry Local SD, 	148 
+Wickliffe City SD, 	122 
+Willoughby-Eastlake City SD, 	730 
+Chesapeake Union Ex Vill SD, 	94 
+Dawson-Bryant Local SD, 	107 
+Fairland Local SD, 	134 
+Ironton City SD, 	122 
+Rock Hill Local SD, 	121 
+South Point Local SD, 	137 
+Symmes Valley Local SD, 	72 
+Granville Ex Vill SD, 	163 
+Heath City SD, 	104 
+Johnstown-Monroe Local SD, 	121 
+Lakewood Digital Academy, 	-   
+Lakewood Local Local SD, 	158 
+Licking Heights Local SD, 	92 
+Licking Valley Local SD, 	175 
+Newark City SD, 	365 
+Newark Digital Academy,<10
+North Fork Local SD, 	140 
+Northridge Local SD, 	104 
+Southwest Licking Digital Acad,<10
+Southwest Licking Local SD, 	240 
+Bellefontaine City SD, 	204 
+Benjamin Logan Local SD, 	154 
+Indian Lake Local SD, 	131 
+Riverside Local SD, 	56 
+Amherst Ex Vill SD, 	315 
+"Arts Academy, 	-   
+Avon Lake City SD, 	248 
+Avon Local SD, 	136 
+Clearview Local SD, 	121 
+Columbia Local SD, 	80 
+Elyria City SD, 	392 
+Elyria Community School, 	-   
+Firelands Local SD, 	152 
+Keystone Local SD, 	137 
+Life Skills Center of Elyria, 	71 
+Lorain Alternative Academy,<10
+Lorain City SD, 	459 
+Lorain Community School, 	-   
+Lorain Elementary Digital, 	-   
+Lorain High School Digital, 	16 
+Lorain Middle School Digital, 	-   
+Midview Local SD, 	247 
+North Ridgeville City SD, 	231 
+Oberlin City SD, 	73 
+Sheffield-Sheffield Lake City, 	138 
+Summit Academy-Lorain, 	-   
+Wellington Ex Vill SD, 	118 
+Academy Of Business & Tech, 	-   
+Alliance Academy of Toledo, 	11 
+Alternative Education Academy, 	193 
+Anthony Wayne Local SD, 	316 
+Aurora Academy, 	-   
+Autism Academy, 	-   
+Brigadoon Academy CS,<10
+Eagle Academy, 	-   
+Englewood Peace Academy, 	-   
+George A. Phillips Academy, 	-   
+Glass City Academy, 	33 
+Horizon Science Academy Toledo, 	-   
+Lake Erie Academy, 	-   
+Life Skills Center Of Toledo, 	58 
+M.O.D.E.L. Community School, 	-   
+Maumee Bay Academy, 	-   
+Maumee City SD, 	232 
+Meadows Choice Community, 	-   
+Ohio Virtual Academy, 	-   
+Oregon City SD, 	293 
+Ottawa Hills Local SD, 	78 
+Paul Laurence Dunbar Academy, 	-   
+Performing Arts School Of Tol, 	16 
+Phoenix Academy CS, 	108 
+Polly Fox Academy, 	17 
+Springfield Local SD, 	285 
+Sylvania City SD, 	660 
+Toledo Academy Of Learning, 	-   
+Toledo Accelerated Academy, 	-   
+Toledo City SD," 	2
+Toledo School For The Arts, 	39 
+Washington Local SD, 	490 
+Wildwood Environmental Academy, 	-   
+Winterfield Venture Academy, 	-   
+Jefferson Local SD, 	97 
+Jonathan Alder Local SD, 	116 
+London City SD, 	142 
+London Digital Academy, 	11 
+Madison-Plains Local SD, 	108 
+Austintown Local SD, 	384 
+Boardman Local SD, 	391 
+Campbell City SD, 	103 
+Canfield Local SD, 	258 
+Eagle Heights Academy, 	-   
+Jackson-Milton Local SD, 	72 
+Legacy Acad For Leaders & Arts, 	-   
+Life Skills Ctr Of Youngstown, 	41 
+Lowellville Local SD, 	44 
+Mahoning Unlimited Classroom,<10
+Mollie Kessler, 	-   
+Poland Local SD, 	208 
+Sebring Local SD, 	42 
+South Range Local SD, 	93 
+Springfield Local SD, 	90 
+Struthers City SD, 	156 
+Summit Academy-Youngstown, 	-   
+West Branch Local SD, 	171 
+Western Reserve Local SD, 	75 
+Youngstown City SD, 	535 
+Youngstown Community School, 	-   
+Elgin Digital Academy,<10
+Elgin Local SD, 	102 
+Marion City Digital Academy,<10
+Marion City SD, 	365 
+Pleasant Community Digital, 	-   
+Pleasant Local SD, 	112 
+Ridgedale Community School,<10
+Ridgedale Local SD, 	81 
+River Valley Digital Academy, 	-   
+River Valley Local SD, 	137 
+Treca Digital Academy, 	97 
+Black River Local SD, 	121 
+Brunswick City SD, 	557 
+Buckeye Local SD, 	175 
+Cloverleaf Local SD, 	277 
+Highland Local SD, 	196 
+Medina City SD, 	577 
+Wadsworth City SD, 	420 
+Eastern Local SD, 	53 
+Meigs Local SD, 	173 
+Southern Local SD, 	60 
+Celina City SD, 	286 
+Coldwater Ex Vill SD, 	130 
+Fort Recovery Local SD, 	69 
+Marion Local SD, 	64 
+Parkway Local SD, 	69 
+St Henry Consolidated Local SD, 	95 
+Bethel Local SD, 	73 
+Bradford Ex Vill SD, 	47 
+Covington EVSD Ex Vill SD, 	56 
+Miami East Local SD, 	127 
+Milton-Union Ex Vill SD, 	151 
+Newton Local SD, 	58 
+Piqua City SD, 	305 
+Tipp City Ex Vill SD, 	162 
+Troy City SD, 	348 
+Switzerland Of Ohio Local SD, 	224 
+Academy Of Dayton, 	-   
+Arise Sports Management Acad,<10
+Brookville Local SD, 	141 
+Centerville City SD, 	648 
+City Day Community School, 	-   
+Colin Powell Leadership Acad, 	-   
+"Dayton Academy, 	-   
+Dayton City SD,279 "
+Dayton View Academy, 	-   
+East End Community School, 	-   
+Emerson Academy of Dayton, 	-   
+General Chappie James Leader,<10
+Huber Heights City SD, 	469 
+Jefferson Township Local SD, 	62 
+Kettering City SD, 	569 
+Mad River Local SD, 	220 
+Main Street Automotive Magnet,<10
+Miamisburg City SD, 	334 
+Moraine Community School, 	-   
+Mound St. Military Career Acad, 	15 
+Mound Street Health Careers Ac,<10
+Mound Street IT Careers Academ, 	18 
+N. Dayton School Of Scie & Dis, 	-   
+New Choices Community, 	-   
+New City School, 	-   
+New Lebanon Local SD, 	101 
+Northmont City SD, 	461 
+Northridge Local SD, 	124 
+Oakwood City SD, 	139 
+Omega School Of Excellence, 	-   
+PETE Entrepreneurship Training,<10
+Pathway School of Discovery, 	-   
+Rhea Academy Inc, 	-   
+Richard Allen Academy, 	-   
+Richard Allen Academy II, 	-   
+Richard Allen Academy III, 	-   
+Richard Allen Preparatory, 	-   
+Tech Con Institute,<10
+Trade & Technology Prep Dayton, 	131 
+Trade & Technology Prep-Manuf,<10
+Trotwood Fitness & Prep Acad, 	-   
+Trotwood-Madison City SD, 	149 
+Valley View Local SD, 	161 
+Vandalia-Butler City SD, 	285 
+West Carrollton City SD, 	274 
+Wow Community School, 	-   
+Wright-Dunbar Tech Academy,<10
+Morgan Local SD, 	162 
+Cardington-Lincoln Local SD, 	83 
+Goal Digital Academy, 	12 
+Highland Local SD, 	133 
+Mount Gilead Schools Ex Vill S, 	134 
+Northmor Local SD, 	102 
+Tomorrow Center,<10
+East Muskingum Local SD, 	181 
+Foxfire Alternative, 	41 
+Franklin Local Digital Academy,<10
+Franklin Local SD, 	164 
+Maysville Local SD, 	153 
+Tri-Valley Local SD, 	236 
+West Muskingum Local SD, 	157 
+Zanesville City SD, 	243 
+Caldwell Ex Vill SD, 	78 
+Noble Local SD, 	99 
+Benton Carroll Salem Local SD, 	164 
+Danbury Local SD, 	40 
+Genoa Area Local SD, 	143 
+North Bass Local SD, 	-   
+Port Clinton City SD, 	163 
+Put-In-Bay Local SD, 	10 
+Antwerp Local SD, 	61 
+Paulding Ex Vill SD, 	122 
+Wayne Trace Local Local SD, 	87 
+Crooksville Ex Vill SD, 	68 
+New Lexington City SD, 	136 
+Northern Local SD, 	191 
+Southern Local SD, 	69 
+Circleville City SD, 	190 
+Logan Elm Local SD, 	177 
+Teays Valley Local SD, 	210 
+Westfall Local SD, 	116 
+Eastern Local SD, 	75 
+Scioto Valley Local SD, 	118 
+Waverly City SD, 	162 
+Western Local SD, 	57 
+Aurora City SD, 	174 
+Crestwood Local SD, 	233 
+Field Local SD, 	163 
+James A Garfield Local SD, 	121 
+Kent City SD, 	321 
+Kent Digital Academy,<10
+Ravenna City SD, 	211 
+Rootstown Local SD, 	103 
+Southeast Local SD, 	155 
+Streetsboro City SD, 	139 
+Waterloo Local SD, 	117 
+Windham Ex Vill SD, 	68 
+College Corner Local SD,<10
+Eaton Community Schools City S, 	142 
+National Trail Local SD, 	91 
+Preble Shawnee Local SD, 	113 
+Tri-County North Local SD, 	98 
+Twin Valley Community Local SD, 	80 
+Columbus Grove Local SD, 	79 
+Continental Local SD, 	57 
+Jennings Local SD, 	40 
+Kalida Local SD, 	54 
+Leipsic Local SD, 	60 
+Miller City-New Cleveland Loca, 	34 
+Ottawa-Glandorf Local SD, 	152 
+Ottoville Local SD, 	52 
+Pandora-Gilboa Local SD, 	46 
+Clear Fork Valley Local SD, 	127 
+Crestview Local SD, 	93 
+Lexington Local SD, 	224 
+Lucas Local Local SD, 	47 
+Madison Local SD, 	248 
+Mansfield City SD, 	349 
+Mansfield Community, 	-   
+Mansfield Enhancement Academy, 	28 
+Ontario Local SD, 	151 
+Plymouth-Shiloh Local SD, 	60 
+Shelby City SD, 	188 
+Adena Local SD, 	102 
+Chillicothe City SD, 	283 
+Huntington Local SD, 	104 
+Paint Valley Local SD, 	103 
+Southeastern Local SD, 	72 
+Union-Scioto Local SD, 	113 
+Zane Trace Local SD, 	99 
+Clyde-Green Springs Ex Vill SD, 	176 
+Fremont City SD, 	325 
+Gibsonburg Ex Vill SD, 	99 
+Lakota Local SD, 	93 
+Woodmore Local SD, 	106 
+Bloom-Vernon Local SD, 	60 
+Clay Local SD, 	38 
+Green Local SD, 	53 
+Minford Local SD, 	116 
+New Boston Local SD, 	27 
+Northwest Local SD, 	135 
+Portsmouth City SD, 	107 
+Sciotoville, 	64 
+Valley Local SD, 	72 
+Washington-Nile Local SD, 	122 
+Wheelersburg Local SD, 	100 
+Bettsville Local SD, 	23 
+Bridges Community Academy, 	-   
+Fostoria City SD, 	133 
+Hopewell-Loudon Local SD, 	73 
+New Riegel Local SD, 	34 
+Old Fort Local SD, 	48 
+Seneca East Local SD, 	71 
+Tiffin City SD, 	215 
+Anna Local SD, 	99 
+Botkins Local SD, 	47 
+Fairlawn Local SD, 	43 
+Fort Loramie Local SD, 	65 
+Hardin-Houston Local SD, 	62 
+Jackson Center Local SD, 	43 
+Russia Local SD, 	32 
+Sidney City SD, 	200 
+Alliance City SD, 	224 
+Canton City SD, 	799 
+Canton City Sch Digital Acdmy,<10
+Canton Local Digital Academy,<10
+Canton Local SD, 	207 
+"East Canton Digital Acad,<10
+Fairless Local SD, 	114 
+Golden Eagle Digital Academy,<10
+Hope Academy Canton Campus, 	-   
+Jackson Local SD, 	444 
+Lake Local SD, 	249 
+Life Skills Center Canton, 	45 
+Little Eagle Kindergarten Pgm, 	-   
+Louisville City SD, 	215 
+Marlington Local SD, 	217 
+Massillon City SD, 	305 
+"Massillon Digital Academy, 	-   
+Minerva Local SD, 	153 
+North Canton City SD, 	441 
+Northwest Local SD, 	187 
+Osnaburg Local SD, 	52 
+Perry Local SD, 	330 
+Perry Panther Digital Academy, 	-   
+"Plain Local Admy Of Tech, 	-   
+Plain Local SD, 	486 
+Project Rebuild Community,<10
+Sandy Valley Local SD, 	104 
+Summit Academy-Canton, 	-   
+The Canton Academy,<10
+Tuslaw Local SD, 	106 
+Akron City SD," 	2
+Akron Community School, 	-   
+Akron Digital Academy, 	31 
+Barberton City SD, 	288 
+Copley-Fairlawn City SD, 	286 
+Coventry Local SD, 	203 
+Cuyahoga Falls City SD, 	367 
+"Edge Academy, 	-   
+Green Local SD, 	299 
+Hope Academy Brown St Campus, 	-   
+Hope Academy University, 	-   
+Hudson City SD, 	415 
+Ida B Wells Community Academy, 	-   
+Life Skills Ctr Of Akron, 	89 
+Life Skills Ctr Of Summit Co, 	36 
+Lighthouse Academy, 	-   
+Manchester Local SD, 	117 
+Mogadore Local SD, 	64 
+Nordonia Hills City SD, 	264 
+Norton City SD, 	181 
+Revere Local SD, 	240 
+Springfield Local SD, 	193 
+Stow-Munroe Falls City SD, 	501 
+Summit Academy Cincinnati, 	-   
+Summit Academy Columbus, 	-   
+Summit Academy Dayton, 	-   
+Summit Academy Sec Youngstown, 	-   
+Summit Academy Second  Lorain, 	-   
+Summit Academy Second Akron, 	-   
+Summit Academy Second Canton, 	-   
+Summit Academy Second Parma, 	-   
+Summit Academy Toledo, 	-   
+Summit Academy Warren, 	-   
+Summit Academy--Akron El, 	-   
+Summit Academy--Akron M S, 	-   
+Tallmadge City SD, 	225 
+Twinsburg City SD, 	300 
+Woodridge Local SD, 	124 
+Bloomfield-Mespo Local SD, 	25 
+Bristol Local SD, 	52 
+Brookfield Local SD, 	100 
+Champion Local SD, 	137 
+Girard City SD, 	139 
+Howland Local SD, 	237 
+Hubbard Ex Vill SD, 	204 
+Joseph Badger Local SD, 	96 
+LaBrae Local SD, 	90 
+Lakeview Local SD, 	175 
+Liberty Local SD, 	163 
+Life Skills Of Trumbull County, 	74 
+Lordstown Local SD, 	35 
+Maplewood Local SD, 	84 
+Mathews Local SD, 	78 
+Mcdonald Local SD, 	65 
+Newton Falls Ex Vill SD, 	116 
+Niles City SD, 	209 
+Southington Local SD, 	56 
+Warren City SD, 	402 
+Weathersfield Local SD, 	84 
+"Cardinal Digital Academy,<10
+Claymont City SD, 	156 
+Dover City SD, 	213 
+Garaway Local SD, 	92 
+Indian Valley Local SD, 	126 
+New Philadelphia City SD, 	247 
+Newcomerstown Ex Vill SD, 	90 
+Quaker Digital Academy,<10
+Strasburg-Franklin Local SD, 	51 
+Tuscarawas Valley Local SD, 	121 
+Fairbanks Local SD, 	100 
+Marysville Digital Academy,<10
+Marysville Ex Vill SD, 	331 
+North Union Local SD, 	88 
+Crestview Local SD, 	76 
+Lincolnview Local SD, 	67 
+Van Wert City SD, 	163 
+Vinton County Local SD, 	161 
+Carlisle Local SD, 	117 
+Franklin City SD, 	208 
+Kings Local SD, 	262 
+Lebanon City SD, 	337 
+Little Miami Local SD, 	211 
+Mason City SD, 	482 
+Springboro Community City SD, 	291 
+Warren County Virtual Commun., 	21 
+Wayne Local SD, 	115 
+Belpre City SD, 	106 
+Fort Frye Local SD, 	102 
+Frontier Local SD, 	74 
+Marietta City SD, 	243 
+Warren Local SD, 	187 
+Wolf Creek Local SD, 	53 
+Chippewa Local SD, 	116 
+Dalton Local SD, 	80 
+Green Local SD, 	100 
+North Central Local SD, 	108 
+Northwestern Local SD, 	116 
+Orrville City SD, 	129 
+Rittman Ex Vill SD, 	88 
+Southeast Local SD, 	108 
+Triway Local SD, 	153 
+Wooster City SD, 	321 
+Bryan City SD, 	180 
+Edgerton Local SD, 	58 
+Edon-Northwest Local SD, 	71 
+Millcreek-West Unity Local SD, 	42 
+Montpelier Ex Vill SD, 	89 
+North Central Local SD, 	45 
+Stryker Local SD, 	40 
+Bowling Green City SD, 	283 
+Eastwood Local SD, 	148 
+Elmwood Local SD, 	78 
+Lake Local SD, 	134 
+North Baltimore Local SD, 	57 
+Northwood Local SD, 	87 
+Otsego Local SD, 	122 
+Perrysburg Digital Academy,<10
+Perrysburg Ex Vill SD, 	352 
+Rossford Ex Vill SD, 	135 
+Carey Ex Vill SD, 	81 
+Mohawk Local SD, 	92 
+Upper Sandusky Ex Vill SD, 	159 
+State Totals,205 "
