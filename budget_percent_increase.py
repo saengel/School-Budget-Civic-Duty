@@ -7,9 +7,15 @@ file2004 = open("2004_budget.txt","rt")
 line_00 = file2000.readline()
 line_04 = file2004.readline()
 
-# Read the second line (which is the first info row)
+# Read the second and third line (which is the first info row)
 line_00 = file2000.readline()
 line_04 = file2004.readline()
+
+line_00 = file2000.readline()
+line_04 = file2004.readline()
+
+print("line_00 is....")
+print(line_00)
 
 # Dictionary with the key being the county
 # and the value being the percent 2004/2000
@@ -19,6 +25,8 @@ while line_00 and line_04:
     fields00 = line_00.split("|")
     fields04 = line_04.split("|")
 
+    print(fields00)
+    
     dist00 = fields00[0]
     budget00 = int(fields00[1])
 

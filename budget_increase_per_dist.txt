@@ -1,0 +1,1198 @@
+line_00 is....
+Akron City SD|13121
+
+['Akron City SD', '13121\n']
+['Alliance City SD', '10023\n']
+['Ashland City SD', '8156\n']
+['Ashtabula Area City SD', '9456\n']
+['Athens City SD', '9616\n']
+['Barberton City SD', '8665\n']
+['Bay Village City SD', '9659\n']
+['Beachwood City SD', '17590\n']
+['Bedford City SD', '9501\n']
+['Bellaire Local SD', '7023\n']
+['Bellefontaine City SD', '5971\n']
+['Bellevue City SD', '6193\n']
+['Belpre City SD', '4908\n']
+['Berea City SD', '6431\n']
+['Bexley City SD', '6746\n']
+['Bowling Green City SD', '14348\n']
+['Brecksville-Broadview Height', '10260\n']
+['Brooklyn City SD', '11871\n']
+['Brunswick City SD', '9516\n']
+['Bryan City SD', '8676\n']
+['Bucyrus City SD', '8579\n']
+['Cambridge City SD', '9010\n']
+['Campbell City SD', '8844\n']
+['Canton City SD', '8429\n']
+['Celina City SD', '10370\n']
+['Centerville City SD', '7472\n']
+['Chillicothe City SD', '7655\n']
+['Cincinnati City SD', '6510\n']
+['Circleville City SD', '8005\n']
+['Claymont City SD', '5317\n']
+['Cleveland Municipal SD', '5216\n']
+['Cleveland Hts-Univ Hts City', '6649\n']
+['Columbus City SD', '8049\n']
+['Conneaut Area City SD', '18974\n']
+['Coshocton City SD', '14967\n']
+['Cuyahoga Falls City SD', '9599\n']
+['Dayton City SD', '8800\n']
+['Deer Park Community City SD', '8999\n']
+['Defiance City SD', '13531\n']
+['Delaware City SD', '10053\n']
+['Delphos City SD', '8370\n']
+['Dover City SD', '8394\n']
+['East Cleveland City SD', '6966\n']
+['East Liverpool City SD', '7007\n']
+['East Palestine City SD', '10391\n']
+['Eaton Community Schools City', '7278\n']
+['Elyria City SD', '5243\n']
+['Euclid City SD', '5555\n']
+['Fairborn City SD', '5915\n']
+['Fairview Park City SD', '7294\n']
+['Findlay City SD', '4571\n']
+['Fostoria City SD', '9887\n']
+['Franklin City SD', '11471\n']
+['Fremont City SD', '10091\n']
+['Galion City SD', '11191\n']
+['Gallipolis City SD', '9249\n']
+['Garfield Heights City SD', '8707\n']
+['Geneva Area City SD', '8265\n']
+['Girard City SD', '8437\n']
+['Grandview Heights City SD', '8804\n']
+['Winton Woods City SD', '6765\n']
+['Greenville City SD', '7295\n']
+['Hamilton City SD', '9505\n']
+['Heath City SD', '7480\n']
+['Hillsboro City SD', '5684\n']
+['Huron City SD', '5632\n']
+['Ironton City SD', '5965\n']
+['Jackson City SD', '4621\n']
+['Kent City SD', '5740\n']
+['Kenton City SD', '10734\n']
+['Kettering City SD', '9147\n']
+['Lakewood City SD', '8989\n']
+['Lancaster City SD', '11836\n']
+['Lebanon City SD', '9023\n']
+['Lima City SD', '10998\n']
+['Lockland City SD', '11146\n']
+['Logan-Hocking Local SD', '8972\n']
+['London City SD', '7424\n']
+['Lorain City SD', '9059\n']
+['Loveland City SD', '12875\n']
+['Madeira City SD', '6015\n']
+['Mansfield City SD', '5702\n']
+['Maple Heights City SD', '7463\n']
+['Mariemont City SD', '5440\n']
+['Marietta City SD', '6269\n']
+['Marion City SD', '6578\n']
+['Martins Ferry City SD', '5693\n']
+['Massillon City SD', '10916\n']
+['Maumee City SD', '12522\n']
+['Mayfield City SD', '8067\n']
+['Medina City SD', '9467\n']
+['Miamisburg City SD', '9145\n']
+['Middletown City SD', '10406\n']
+['Mount Healthy City SD', '10022\n']
+['Mount Vernon City SD', '11680\n']
+['Napoleon City SD', '9551\n']
+['Nelsonville-York City SD', '7731\n']
+['Newark City SD', '8514\n']
+['New Boston Local SD', '7938\n']
+['New Lexington City SD', '6140\n']
+['New Philadelphia City SD', '6240\n']
+['Niles City SD', '6117\n']
+['North Canton City SD', '5938\n']
+['North College Hill City SD', '6408\n']
+['North Olmsted City SD', '4865\n']
+['North Ridgeville City SD', '4319\n']
+['North Royalton City SD', '8639\n']
+['Norton City SD', '8788\n']
+['Norwalk City SD', '9240\n']
+['Norwood City SD', '9339\n']
+['Oakwood City SD', '11531\n']
+['Oberlin City SD', '8558\n']
+['Oregon City SD', '9019\n']
+['Orrville City SD', '7652\n']
+['Painsville City Local SD', '6501\n']
+['Parma City SD', '9110\n']
+['Piqua City SD', '8487\n']
+['Port Clinton City SD', '9793\n']
+['Portsmouth City SD', '7498\n']
+['Princeton City SD', '5910\n']
+['Ravenna City SD', '7757\n']
+['Reading Community City SD', '7029\n']
+['Rocky River City SD', '5055\n']
+['St Bernard-Elmwood Place Cit', '5920\n']
+['St Marys City SD', '5425\n']
+['Salem City SD', '11526\n']
+['Sandusky City SD', '15270\n']
+['Shaker Heights City SD', '10022\n']
+['Sheffield-Sheffield Lake Cit', '9280\n']
+['Shelby City SD', '11196\n']
+['Sidney City SD', '12224\n']
+['South Euclid-Lyndhurst City', '7615\n']
+['South-Western City SD', '8151\n']
+['Springfield City SD', '9491\n']
+['Steubenville City SD', '12924\n']
+['Stow-Munroe Falls City SD', '8413\n']
+['Strongsville City SD', '7489\n']
+['Struthers City SD', '5790\n']
+['Sycamore Community City SD', '8935\n']
+['Sylvania City SD', '6207\n']
+['Tallmadge City SD', '5662\n']
+['Tiffin City SD', '5304\n']
+['Toledo City SD', '4895\n']
+['Toronto City SD', '9611\n']
+['Troy City SD', '11563\n']
+['Upper Arlington City SD', '8164\n']
+['Urbana City SD', '13522\n']
+['Vandalia-Butler City SD', '10537\n']
+['Van Wert City SD', '9652\n']
+['Wadsworth City SD', '7683\n']
+['Wapakoneta City SD', '10604\n']
+['Warren City SD', '7316\n']
+['Warrensville Heights City SD', '7521\n']
+['Washington Court House City', '10750\n']
+['Wellston City SD', '6592\n']
+['Wellsville Local SD', '6995\n']
+['Westerville City SD', '5468\n']
+['West Carrollton City SD', '6352\n']
+['Westlake City SD', '4904\n']
+['Whitehall City SD', '6113\n']
+['Wickliffe City SD', '7591\n']
+['Willard City SD', '4536\n']
+['Willoughby-Eastlake City SD', '6031\n']
+['Wilmington City SD', '11251\n']
+['Wooster City SD', '9239\n']
+['Worthington City SD', '10426\n']
+['Wyoming City SD', '9738\n']
+['Xenia Community City SD', '11518\n']
+['Youngstown City SD', '10023\n']
+['Zanesville City SD', '9851\n']
+['Ada Ex Vill SD', '7490\n']
+['Amherst Ex Vill SD', '8239\n']
+['Barnesville Ex Vill SD', '5895\n']
+['Bluffton Ex Vill SD', '8444\n']
+['Bradford Ex Vill SD', '8644\n']
+['Bridgeport Ex Vill SD', '7929\n']
+['Harrison Hills City SD', '5461\n']
+['Caldwell Ex Vill SD', '7542\n']
+['Carey Ex Vill SD', '5258\n']
+['Carrollton Ex Vill SD', '4802\n']
+['Chagrin Falls Ex Vill SD', '8995\n']
+['Chesapeake Union Ex Vill SD', '8972\n']
+['Clyde-Green Springs Ex Vill', '9004\n']
+['Coldwater Ex Vill SD', '8008\n']
+['Columbiana Ex Vill SD', '9145\n']
+['Covington Ex Vill SD', '9618\n']
+['Crestline Ex Vill SD', '8310\n']
+['Crooksville Ex Vill SD', '7766\n']
+['Fairport Harbor Ex Vill SD', '7069\n']
+['Georgetown Ex Vill SD', '6688\n']
+['Gibsonburg Ex Vill SD', '9430\n']
+['Granville Ex Vill SD', '6469\n']
+['Greenfield Ex Vill SD', '6459\n']
+['Hicksville Ex Vill SD', '5621\n']
+['Hubbard Ex Vill SD', '5811\n']
+['Indian Hill Ex Vill SD', '5509\n']
+['Leetonia Ex Vill SD', '5924\n']
+['Lisbon Ex Vill SD', '5053\n']
+['Loudonville-Perrysville Ex V', '9896\n']
+['Marysville Ex Vill SD', '9313\n']
+['Mechanicsburg Ex Vill SD', '7963\n']
+['Mentor Ex Vill SD', '8167\n']
+['Milford Ex Vill SD', '9277\n']
+['Milton-Union Ex Vill SD', '8048\n']
+['Montpelier Ex Vill SD', '7623\n']
+['Mount Gilead Ex Vill SD', '7534\n']
+['Newcomerstown Ex Vill SD', '11199\n']
+['New Richmond Ex Vill SD', '6732\n']
+['Newton Falls Ex Vill SD', '6047\n']
+['Paulding Ex Vill SD', '7154\n']
+['Perrysburg Ex Vill SD', '6921\n']
+['Rittman Ex Vill SD', '5396\n']
+['Rossford Ex Vill SD', '6316\n']
+['Tipp City Ex Vill SD', '4869\n']
+['Upper Sandusky Ex Vill SD', '4662\n']
+['Versailles Ex Vill SD', '4803\n']
+['Wauseon Ex Vill SD', '4315\n']
+['Wellington Ex Vill SD', '9943\n']
+['Windham Ex Vill SD', '9790\n']
+['Yellow Springs Ex Vill SD', '10921\n']
+['Allen East Local SD', '7908\n']
+['Bath Local SD', '8953\n']
+['Elida Local SD', '9893\n']
+['Perry Local SD', '7732\n']
+['Shawnee Local SD', '10816\n']
+['Spencerville Local SD', '7191\n']
+['Hillsdale Local SD', '7258\n']
+['Mapleton Local SD', '6396\n']
+['Buckeye Local SD', '6112\n']
+['Grand Valley Local SD', '6862\n']
+['Jefferson Area Local SD', '7189\n']
+['Pymatuning Valley Local SD', '8323\n']
+['Alexander Local SD', '4959\n']
+['Federal Hocking Local SD', '6222\n']
+['Trimble Local SD', '4116\n']
+['Minster Local SD', '5126\n']
+['New Bremen Local SD', '8977\n']
+['New Knoxville Local SD', '9103\n']
+['Waynesfield-Goshen Local SD', '9099\n']
+['St Clairsville-Richland City', '8063\n']
+['Shadyside Local SD', '7801\n']
+['Union Local SD', '9100\n']
+['Eastern Local SD', '8047\n']
+['Fayetteville-Perry Local SD', '7270\n']
+['Western Brown Local SD', '7560\n']
+['Ripley-Union-Lewis Local SD', '7711\n']
+['Edgewood City SD', '8114\n']
+['Fairfield City SD', '8249\n']
+['Lakota Local SD', '6901\n']
+['Madison Local SD', '5889\n']
+['New Miami Local SD', '6664\n']
+['Ross Local SD', '6168\n']
+['Talawanda City SD', '4595\n']
+['Brown Local SD', '5151\n']
+['Graham Local SD', '4004\n']
+['Triad Local SD', '2697\n']
+['West Liberty-Salem Local SD', '9120\n']
+['Greenon Local SD', '9733\n']
+['Tecumseh Local SD', '7800\n']
+['Northeastern Local SD', '9058\n']
+['Northwestern Local SD', '8050\n']
+['Southeastern Local SD', '8313\n']
+['Clark-Shawnee Local SD', '8026\n']
+['Batavia Local SD', '7568\n']
+['Bethel-Tate Local SD', '7869\n']
+['Clermont-Northeastern Local', '6743\n']
+['Felicity-Franklin Local SD', '6599\n']
+['Goshen Local SD', '5577\n']
+['West Clermont Local SD', '5803\n']
+['Williamsburg Local SD', '5706\n']
+['Blanchester Local SD', '5246\n']
+['Clinton-Massie Local SD', '4487\n']
+['East Clinton Local SD', '4662\n']
+['Beaver Local SD', '9416\n']
+['Crestview Local SD', '8458\n']
+['Southern Local SD', '8252\n']
+['United Local SD', '8114\n']
+['Ridgewood Local SD', '8000\n']
+['River View Local SD', '8417\n']
+['Buckeye Central Local SD', '7237\n']
+['Colonel Crawford Local SD', '7941\n']
+['Wynford Local SD', '8148\n']
+['Cuyahoga Heights Local SD', '8289\n']
+['Independence Local SD', '6906\n']
+['Olmsted Falls City SD', '6469\n']
+['Orange City SD', '10173\n']
+['Richmond Heights Local SD', '6067\n']
+['Solon City SD', '5650\n']
+['Ansonia Local SD', '5216\n']
+['Arcanum Butler Local SD', '5239\n']
+['Franklin-Monroe Local SD', '5282\n']
+['Mississinawa Valley Local SD', '4036\n']
+['Tri-Village Local SD', '8727\n']
+['Ayersville Local SD', '9317\n']
+['Central Local SD', '9295\n']
+['Northeastern Local SD', '9767\n']
+['Big Walnut Local SD', '8601\n']
+['Buckeye Valley Local SD', '8167\n']
+['Olentangy Local SD', '17811\n']
+['Berlin-Milan Local SD', '11123\n']
+['Kelleys Island Local SD', '8926\n']
+['Margaretta Local SD', '14859\n']
+['Perkins Local SD', '9052\n']
+['Vermilion Local SD', '9651\n']
+['Amanda-Clearcreek Local SD', '7276\n']
+['Berne Union Local SD', '5534\n']
+['Bloom Carroll Local SD', '5546\n']
+['Fairfield Union Local SD', '6362\n']
+['Liberty Union-Thurston Local', '5354\n']
+['Pickerington Local SD', '4630\n']
+['Walnut Township Local SD', '9643\n']
+['Miami Trace Local SD', '8324\n']
+['Canal Winchester Local SD', '8858\n']
+['Hamilton Local SD', '9675\n']
+['Gahanna-Jefferson City SD', '9457\n']
+['Groveport Madison Local SD', '9187\n']
+['Plain Local SD', '8505\n']
+['Reynoldsburg City SD', '40672\n']
+['Hilliard City SD', '8367\n']
+['Dublin City SD', '8556\n']
+['Archbold-Area Local SD', '7898\n']
+['Evergreen Local SD', '6541\n']
+['Gorham Fayette Local SD', '5996\n']
+['Pettisville Local SD', '5838\n']
+['Pike-Delta-York Local SD', '6051\n']
+['Swanton Local SD', '5816\n']
+['Berkshire Local SD', '5535\n']
+['Cardinal Local SD', '5357\n']
+['Chardon Local SD', '7525\n']
+['Kenston Local SD', '9399\n']
+['Ledgemont Local SD', '10508\n']
+['Newbury Local SD', '8945\n']
+['West Geauga Local SD', '11288\n']
+['Beavercreek City SD', '9646\n']
+['Cedar Cliff Local SD', '10947\n']
+['Greeneview Local SD', '8662\n']
+['Sugarcreek Local SD', '9806\n']
+['Rolling Hills Local SD', '10548\n']
+['Finneytown Local SD', '8386\n']
+['Forest Hills Local SD', '7920\n']
+['Northwest Local SD', '8738\n']
+['Oak Hills Local SD', '6900\n']
+['Southwest Local SD', '6638\n']
+['Three Rivers Local SD', '5975\n']
+['Arcadia Local SD', '6133\n']
+['Arlington Local SD', '6338\n']
+['Cory-Rawson Local SD', '5391\n']
+['Liberty Benton Local SD', '6350\n']
+['McComb Local SD', '11377\n']
+['Van Buren Local SD', '10972\n']
+['Vanlue Local SD', '11529\n']
+['Hardin Northern Local SD', '11164\n']
+['Ridgemont Local SD', '11376\n']
+['Riverdale Local SD', '8587\n']
+['Upper Scioto Valley Local SD', '7081\n']
+['Conotton Valley Union Local', '8026\n']
+['Holgate Local SD', '7271\n']
+['Liberty Center Local SD', '9008\n']
+['Patrick Henry Local SD', '7358\n']
+['Bright Local SD', '7130\n']
+['Fairfield Local SD', '5823\n']
+['Lynchburg-Clay Local SD', '5522\n']
+['East Holmes Local SD', '5689\n']
+['West Holmes Local SD', '5178\n']
+['Monroeville Local SD', '4556\n']
+['New London Local SD', '5636\n']
+['South Central Local SD', '10910\n']
+['Western Reserve Local SD', '8781\n']
+['Oak Hill Union Local SD', '9724\n']
+['Buckeye Local SD', '8590\n']
+['Edison Local SD', '10255\n']
+['Indian Creek Local SD', '7643\n']
+['Centerburg Local SD', '7780\n']
+['Danville Local SD', '7878\n']
+['East Knox Local SD', '7418\n']
+['Fredericktown Local SD', '8462\n']
+['Kirtland Local SD', '7661\n']
+['Madison Local SD', '6411\n']
+['Painsville Township Local SD', '7722\n']
+['Perry Local SD', '6295\n']
+['Dawson-Bryant Local SD', '5644\n']
+['Fairland Local SD', '4567\n']
+['Rock Hill Local SD', '5576\n']
+['South Point Local SD', '4050\n']
+['Symmes Valley Local SD', '4680\n']
+['Johnstown-Monroe Local SD', '9400\n']
+['Lakewood Local SD', '8963\n']
+['Licking Heights Local SD', '9739\n']
+['Licking Valley Local SD', '8788\n']
+['North Fork Local SD', '8286\n']
+['Northridge Local SD', '9090\n']
+['Southwest Licking Local SD', '8926\n']
+['Benjamin Logan Local SD', '7377\n']
+['Indian Lake Local SD', '7164\n']
+['Riverside Local SD', '7809\n']
+['Avon Local SD', '6320\n']
+['Avon Lake City SD', '7229\n']
+['Clearview Local SD', '9058\n']
+['Columbia Local SD', '6486\n']
+['Firelands Local SD', '6926\n']
+['Keystone Local SD', '11228\n']
+['Midview Local SD', '5745\n']
+['Anthony Wayne Local SD', '4087\n']
+['Ottawa Hills Local SD', '4523\n']
+['Springfield Local SD', '11883\n']
+['Washington Local SD', '8477\n']
+['Jefferson Local SD', '11364\n']
+['Jonathan Alder Local SD', '8026\n']
+['Madison-Plains Local SD', '9154\n']
+['Austintown Local SD', '8201\n']
+['Boardman Local SD', '7599\n']
+['Canfield Local SD', '7099\n']
+['Jackson-Milton Local SD', '7542\n']
+['Lowellville Local SD', '7842\n']
+['Poland Local SD', '6128\n']
+['Sebring Local SD', '6631\n']
+['South Range Local SD', '6562\n']
+['Springfield Local SD', '5449\n']
+['West Branch Local SD', '6659\n']
+['Western Reserve Local SD', '5542\n']
+['Elgin Local SD', '5189\n']
+['Pleasant Local SD', '4281\n']
+['Ridgedale Local SD', '8970\n']
+['River Valley Local SD', '8834\n']
+['Black River Local SD', '7378\n']
+['Buckeye Local SD', '7523\n']
+['Cloverleaf Local SD', '13510\n']
+['Highland Local SD', '8991\n']
+['Eastern Local SD', '9993\n']
+['Meigs Local SD', '7632\n']
+['Southern Local SD', '6529\n']
+['Marion Local SD', '6843\n']
+['Parkway Local SD', '7782\n']
+['St Henry Consolidated Local', '7367\n']
+['Fort Recovery Local SD', '6315\n']
+['Bethel Local SD', '6312\n']
+['Miami East Local SD', '5286\n']
+['Newton Local SD', '5300\n']
+['Switzerland Of Ohio Local SD', '5545\n']
+['Brookville Local SD', '5143\n']
+['Jefferson Township Local SD', '5025\n']
+['Trotwood-Madison City SD', '5025\n']
+['Mad River Local SD', '9014\n']
+['New Lebanon Local SD', '9023\n']
+['Northmont City SD', '8919\n']
+['Northridge Local SD', '7903\n']
+['Valley View Local SD', '8426\n']
+['Huber Heights City SD', '7628\n']
+['Morgan Local SD', '8096\n']
+['Cardington-Lincoln Local SD', '8347\n']
+['Highland Local SD', '7000\n']
+['Northmor Local SD', '7154\n']
+['East Muskingum Local SD', '7003\n']
+['Franklin Local SD', '7470\n']
+['Maysville Local SD', '6850\n']
+['Tri-Valley Local SD', '5272\n']
+['West Muskingum Local SD', '5594\n']
+['Noble Local SD', '5094\n']
+['Benton Carroll Salem Local S', '5006\n']
+['Danbury Local SD', '4527\n']
+['Genoa Area Local SD', '8826\n']
+['North Bass Local SD', '9457\n']
+['Put-In-Bay Local SD', '9040\n']
+['Antwerp Local SD', '9612\n']
+['Wayne Trace Local SD', '8109\n']
+['Northern Local SD', '13123\n']
+['Southern Local SD', '10077\n']
+['Logan Elm Local SD', '8971\n']
+['Teays Valley Local SD', '7419\n']
+['Westfall Local SD', '7375\n']
+['Eastern Local SD', '10071\n']
+['Scioto Valley Local SD', '7359\n']
+['Waverly City SD', '5839\n']
+['Western Local SD', '6450\n']
+['Aurora City SD', '4977\n']
+['Crestwood Local SD', '4764\n']
+['Field Local SD', '4461\n']
+['James A Garfield Local SD', '4296\n']
+['Rootstown Local SD', '8657\n']
+['Southeast Local SD', '9074\n']
+['Streetsboro City SD', '8826\n']
+['Waterloo Local SD', '8372\n']
+['National Trail Local SD', '7831\n']
+['Preble-Shawnee Local SD', '7793\n']
+['Twin Valley Community Local', '9900\n']
+['Columbus Grove Local SD', '12417\n']
+['Continental Local SD', '7200\n']
+['Jennings Local SD', '48745\n']
+['Kalida Local SD', '28409\n']
+['Leipsic Local SD', '8458\n']
+['Miller City-New Cleveland Lo', '8703\n']
+['Ottawa-Glandorf Local SD', '7879\n']
+['Ottoville Local SD', '9566\n']
+['Pandora-Gilboa Local SD', '8273\n']
+['Clear Fork Valley Local SD', '7656\n']
+['Crestview Local SD', '7174\n']
+['Lexington Local SD', '7430\n']
+['Lucas Local SD', '6185\n']
+['Madison Local SD', '5680\n']
+['Plymouth-Shiloh Local SD', '5958\n']
+['Ontario Local SD', '6527\n']
+['Adena Local SD', '5004\n']
+['Huntington Local SD', '4709\n']
+['Paint Valley Local SD', '4512\n']
+['Southeastern Local SD', '8485\n']
+['Union Scioto Local SD', '8317\n']
+['Zane Trace Local SD', '8781\n']
+['Lakota Local SD', '10027\n']
+['Woodmore Local SD', '7834\n']
+['Bloom-Vernon Local SD', '8450\n']
+['Clay Local SD', '8105\n']
+['Green Local SD', '7735\n']
+['Minford Local SD', '6770\n']
+['Northwest Local SD', '8704\n']
+['Valley Local SD', '6669\n']
+['Washington-Nile Local SD', '5866\n']
+['Wheelersburg Local SD', '6474\n']
+['Seneca East Local SD', '7948\n']
+['Bettsville Local SD', '5084\n']
+['Hopewell-Loudon Local SD', '4531\n']
+['New Riegel Local SD', '5230\n']
+['Old Fort Local SD', '4481\n']
+['Anna Local SD', '8118\n']
+['Botkins Local SD', '8878\n']
+['Fairlawn Local SD', '8959\n']
+['Fort Loramie Local SD', '7819\n']
+['Hardin-Houston Local SD', '10050\n']
+['Jackson Center Local SD', '8514\n']
+['Russia Local SD', '7484\n']
+['Canton Local SD', '7601\n']
+['Fairless Local SD', '7449\n']
+['Jackson Local SD', '7212\n']
+['Lake Local SD', '6250\n']
+['Louisville City SD', '5719\n']
+['Marlington Local SD', '5593\n']
+['Minerva Local SD', '5858\n']
+['Northwest Local SD', '5263\n']
+['Osnaburg Local SD', '5478\n']
+['Perry Local SD', '4852\n']
+['Plain Local SD', '4467\n']
+['Sandy Valley Local SD', '10163\n']
+['Tuslaw Local SD', '8570\n']
+['Woodridge Local SD', '10077\n']
+['Copley-Fairlawn City SD', '10006\n']
+['Coventry Local SD', '8629\n']
+['Manchester Local SD', '7983\n']
+['Green Local SD', '7380\n']
+['Hudson Local SD', '9228\n']
+['Mogadore Local SD', '6710\n']
+['Nordonia Hills City SD', '6829\n']
+['Revere Local SD', '7046\n']
+['Springfield Local SD', '6033\n']
+['Twinsburg City SD', '5864\n']
+['Bloomfield-Mespo Local SD', '5952\n']
+['Bristol Local SD', '5388\n']
+['Brookfield Local SD', '5171\n']
+['Champion Local SD', '4958\n']
+['Mathews Local SD', '5024\n']
+['Howland Local SD', '6497\n']
+['Joseph Badger Local SD', '11403\n']
+['Lakeview Local SD', '8938\n']
+['Liberty Local SD', '8899\n']
+['Lordstown Local SD', '8546\n']
+['Maplewood Local SD', '7697\n']
+['McDonald Local SD', '8933\n']
+['Southington Local SD', '7165\n']
+['La Brae Local SD', '7361\n']
+['Weathersfield Local SD', '7046\n']
+['Garaway Local SD', '6858\n']
+['Indian Valley Local SD', '6559\n']
+['Strasburg-Franklin Local SD', '6453\n']
+['Tuscarawas Valley Local SD', '5538\n']
+['Fairbanks Local SD', '7458\n']
+['North Union Local SD', '6932\n']
+['Crestview Local SD', '5407\n']
+['Lincolnview Local SD', '5179\n']
+['Vinton County Local SD', '4809\n']
+['Carlisle Local SD', '9456\n']
+['Springboro Community City SD', '13671\n']
+['Kings Local SD', '10329\n']
+['Little Miami Local SD', '10201\n']
+['Mason City SD', '11087\n']
+['Wayne Local SD', '10045\n']
+['Fort Frye Local SD', '8946\n']
+['Frontier Local SD', '8767\n']
+['Warren Local SD', '7162\n']
+['Wolf Creek Local SD', '7361\n']
+['Chippewa Local SD', '7468\n']
+['Dalton Local SD', '7815\n']
+['Green Local SD', '6686\n']
+['North Central Local SD', '5046\n']
+['Northwestern Local SD', '5218\n']
+['Southeast Local SD', '5548\n']
+['Triway Local SD', '7186\n']
+['Edgerton Local SD', '4273\n']
+['Edon-Northwest Local SD', '9850\n']
+['Millcreek-West Unity Local S', '5060\n']
+['North Central Local SD', '6970\n']
+['Stryker Local SD', '9084\n']
+['Eastwood Local SD', '9346\n']
+['Elmwood Local SD', '8693\n']
+['Lake Local SD', '7371\n']
+['North Baltimore Local SD', '6826\n']
+['Northwood Local SD', '6926\n']
+['Otsego Local SD', '7746\n']
+['Mohawk Local SD', '7018\n']
+['Ohio Valley Local SD', '5971\n']
+['College Corner Local SD', '6745\n']
+['Gallia County Local SD', '5625\n']
+['East Guernsey Local SD', '6607\n']
+['Tri-County North Local SD', '5103\n']
+['Monroe Local SD', '5476\n']
+Akron City SD|0.4165841018215075
+Alliance City SD|1.0204529581961488
+Ashland City SD|1.1959293771456596
+Ashtabula Area City SD|1.064826565143824
+Athens City SD|1.1003535773710482
+Barberton City SD|1.1547605308713214
+Bay Village City SD|1.0785795631017703
+Beachwood City SD|0.9873791927231381
+Bedford City SD|1.2257657088727503
+Bellaire Local SD|1.32450519720917
+Bellefontaine City SD|1.208842739909563
+Bellevue City SD|1.1737445502987243
+Belpre City SD|1.26079869600652
+Berea City SD|1.2876691027833929
+Bexley City SD|1.2210198636228877
+Bowling Green City SD|0.42479788123780315
+Brecksville-Broadview Height|0.678849902534113
+Brooklyn City SD|0.754190885350855
+Brunswick City SD|0.5022068095838588
+Bryan City SD|1.0968188105117567
+Bucyrus City SD|1.1891828884485371
+Cambridge City SD|1.135072142064373
+Campbell City SD|0.9712799638172772
+Canton City SD|1.186024439435283
+Celina City SD|1.006171648987464
+Centerville City SD|1.157789079229122
+Chillicothe City SD|1.1487916394513389
+Cincinnati City SD|1.135637480798771
+Circleville City SD|1.3717676452217364
+Claymont City SD|1.392326499905962
+Cleveland Municipal SD|1.2871932515337423
+Cleveland Hts-Univ Hts City|1.1664912016844637
+Columbus City SD|1.2268604795626785
+Conneaut Area City SD|0.37846526826183197
+Coshocton City SD|0.3231776575131957
+Cuyahoga Falls City SD|0.518491509532243
+Dayton City SD|0.5954545454545455
+Deer Park Community City SD|1.104456050672297
+Defiance City SD|1.0381346537580372
+Delaware City SD|1.0855466030040783
+Delphos City SD|0.9978494623655914
+Dover City SD|1.1274720038122468
+East Cleveland City SD|1.1546080964685617
+East Liverpool City SD|1.1341515627229912
+East Palestine City SD|1.0363776344913869
+Eaton Community Schools City|1.226023632866172
+Elyria City SD|1.3208086973107
+Euclid City SD|1.2147614761476149
+Fairborn City SD|1.3027895181741336
+Fairview Park City SD|1.1235261859062242
+Findlay City SD|1.3386567490702252
+Fostoria City SD|0.7476484272276727
+Franklin City SD|0.5610670386191265
+Fremont City SD|0.5297790109999009
+Galion City SD|0.43034581360021446
+Gallipolis City SD|1.0318953400367608
+Garfield Heights City SD|0.9897783392672562
+Geneva Area City SD|1.109739866908651
+Girard City SD|1.080597368732962
+Grandview Heights City SD|1.1174466151749205
+Winton Woods City SD|1.1868440502586843
+Greenville City SD|0.9864290610006854
+Hamilton City SD|1.2069437138348238
+Heath City SD|1.3081550802139037
+Hillsboro City SD|1.2939831104855735
+Huron City SD|1.3474786931818181
+Ironton City SD|1.0893545683151717
+Jackson City SD|1.4568275265094135
+Kent City SD|1.1745644599303136
+Kenton City SD|0.5735979131730948
+Kettering City SD|0.524324915272767
+Lakewood City SD|0.7939704082767828
+Lancaster City SD|0.3910949645150389
+Lebanon City SD|1.014629280727031
+Lima City SD|1.0926532096744863
+Lockland City SD|1.1333213708953884
+Logan-Hocking Local SD|1.0259696834596523
+London City SD|1.0021551724137931
+Lorain City SD|1.144386797659786
+Loveland City SD|0.8962330097087379
+Madeira City SD|1.2794679966749791
+Mansfield City SD|1.3377762188705717
+Maple Heights City SD|1.210505158783331
+Mariemont City SD|1.318014705882353
+Marietta City SD|1.261126176423672
+Marion City SD|1.2027972027972027
+Martins Ferry City SD|1.091867205339891
+Massillon City SD|0.6646207401978746
+Maumee City SD|0.4165468774956077
+Mayfield City SD|0.6253873806867485
+Medina City SD|0.5284673074891729
+Miamisburg City SD|0.9270639693821761
+Middletown City SD|1.117720545838939
+Mount Healthy City SD|1.1131510676511673
+Mount Vernon City SD|1.149486301369863
+Napoleon City SD|1.0446026594073918
+Nelsonville-York City SD|1.1845815547794594
+Newark City SD|1.255461592670895
+New Boston Local SD|1.2615268329554044
+New Lexington City SD|1.2617263843648208
+New Philadelphia City SD|1.2060897435897435
+Niles City SD|1.3516429622363904
+North Canton City SD|1.2665880767935331
+North College Hill City SD|1.280274656679151
+North Olmsted City SD|1.2848920863309352
+North Ridgeville City SD|1.2845566103264645
+North Royalton City SD|0.6136126866535478
+Norton City SD|0.6604460628129267
+Norwalk City SD|0.5218614718614719
+Norwood City SD|0.6811221758218224
+Oakwood City SD|1.1879281935651722
+Oberlin City SD|1.0645010516475812
+Oregon City SD|1.1840558820268323
+Orrville City SD|1.1502875065342395
+Painsville City Local SD|1.194431625903707
+Parma City SD|1.2199780461031833
+Piqua City SD|1.1474019088016967
+Port Clinton City SD|1.0472786684366384
+Portsmouth City SD|1.237396639103761
+Princeton City SD|1.280203045685279
+Ravenna City SD|1.1840917880623953
+Reading Community City SD|1.2843932280552
+Rocky River City SD|1.3776458951533135
+St Bernard-Elmwood Place Cit|1.387331081081081
+St Marys City SD|1.2195391705069125
+Salem City SD|0.816762103071317
+Sandusky City SD|0.381139489194499
+Shaker Heights City SD|0.6415885052883656
+Sheffield-Sheffield Lake Cit|0.7961206896551725
+Shelby City SD|1.139156841729189
+Sidney City SD|1.0115346858638743
+South Euclid-Lyndhurst City|1.2786605384110308
+South-Western City SD|1.0161943319838056
+Springfield City SD|1.210409861974502
+Steubenville City SD|1.1723150727329
+Stow-Munroe Falls City SD|1.0084393200998454
+Strongsville City SD|1.1567632527707303
+Struthers City SD|1.417616580310881
+Sycamore Community City SD|1.1683268047006155
+Sylvania City SD|1.2136297728371195
+Tallmadge City SD|1.410102437301307
+Tiffin City SD|1.236236802413273
+Toledo City SD|1.2429009193054137
+Toronto City SD|0.7422744771615857
+Troy City SD|0.4907895874772983
+Upper Arlington City SD|0.9064184223419892
+Urbana City SD|0.4021594438692501
+Vandalia-Butler City SD|1.0116731517509727
+Van Wert City SD|1.0184417737256528
+Wadsworth City SD|1.0963165430170507
+Wapakoneta City SD|1.2513202565069785
+Warren City SD|1.22156916347731
+Warrensville Heights City SD|1.1963834596463236
+Washington Court House City|1.113767441860465
+Wellston City SD|1.2971783980582525
+Wellsville Local SD|1.188134381701215
+Westerville City SD|1.2937088514996342
+West Carrollton City SD|1.1005982367758187
+Westlake City SD|1.2249184339314845
+Whitehall City SD|1.2707345002453787
+Wickliffe City SD|1.0588855223290738
+Willard City SD|1.2345679012345678
+Willoughby-Eastlake City SD|0.825567899187531
+Wilmington City SD|0.4533819216069683
+Wooster City SD|0.6284229895010283
+Worthington City SD|0.4556877038173796
+Wyoming City SD|1.0915999178476072
+Xenia Community City SD|1.1502865080743185
+Youngstown City SD|1.0938840666467127
+Zanesville City SD|1.227794132575373
+Ada Ex Vill SD|1.2534045393858477
+Amherst Ex Vill SD|1.1565723995630537
+Barnesville Ex Vill SD|1.3170483460559796
+Bluffton Ex Vill SD|1.1333491236380862
+Bradford Ex Vill SD|1.1941230911614993
+Bridgeport Ex Vill SD|1.1119939462731745
+Harrison Hills City SD|1.4378318989196117
+Caldwell Ex Vill SD|1.0948024396711749
+Carey Ex Vill SD|1.287181437809053
+Carrollton Ex Vill SD|1.2819658475635152
+Chagrin Falls Ex Vill SD|0.5996664813785436
+Chesapeake Union Ex Vill SD|0.5897235844850647
+Clyde-Green Springs Ex Vill|0.4704575744113727
+Coldwater Ex Vill SD|0.7286463536463537
+Columbiana Ex Vill SD|1.02646254784035
+Covington Ex Vill SD|0.966313162819713
+Crestline Ex Vill SD|1.273886883273165
+Crooksville Ex Vill SD|1.0216327581766675
+Fairport Harbor Ex Vill SD|1.1215164804074127
+Georgetown Ex Vill SD|1.2180023923444976
+Gibsonburg Ex Vill SD|1.1395546129374337
+Granville Ex Vill SD|1.0588962745401145
+Greenfield Ex Vill SD|1.1696857098622078
+Hicksville Ex Vill SD|1.3045721401885786
+Hubbard Ex Vill SD|1.2213044226467045
+Indian Hill Ex Vill SD|1.2163732074786713
+Leetonia Ex Vill SD|1.1465226198514518
+Lisbon Ex Vill SD|1.068869978230754
+Loudonville-Perrysville Ex V|0.6537995149555376
+Marysville Ex Vill SD|0.40921292816493077
+Mechanicsburg Ex Vill SD|0.5947507220896647
+Mentor Ex Vill SD|0.6265458552712134
+Milford Ex Vill SD|1.1016492400560527
+Milton-Union Ex Vill SD|1.0967942345924453
+Montpelier Ex Vill SD|0.9942279942279942
+Mount Gilead Ex Vill SD|1.153039554021768
+Newcomerstown Ex Vill SD|1.2499330297347977
+New Richmond Ex Vill SD|1.1983065953654188
+Newton Falls Ex Vill SD|1.265090127335869
+Paulding Ex Vill SD|1.1881464914733018
+Perrysburg Ex Vill SD|1.2599335356162404
+Rittman Ex Vill SD|1.2327650111193478
+Rossford Ex Vill SD|1.2232425585813806
+Tipp City Ex Vill SD|1.3768741014582049
+Upper Sandusky Ex Vill SD|1.2752037752037753
+Versailles Ex Vill SD|1.3102227774307724
+Wauseon Ex Vill SD|1.3636152954808807
+Wellington Ex Vill SD|0.593080559187368
+Windham Ex Vill SD|0.7585291113381001
+Yellow Springs Ex Vill SD|0.4812746085523304
+Allen East Local SD|0.629742033383915
+Bath Local SD|0.5788004020998548
+Elida Local SD|0.8673809764479935
+Perry Local SD|1.1397361912613355
+Shawnee Local SD|1.2546227810650887
+Spencerville Local SD|1.194687804199694
+Hillsdale Local SD|1.0815651694681732
+Mapleton Local SD|1.2185741088180113
+Buckeye Local SD|0.9771367805396783
+Grand Valley Local SD|1.1362576508306617
+Jefferson Area Local SD|1.2598414243983864
+Pymatuning Valley Local SD|1.040850654811967
+Alexander Local SD|1.303488606573906
+Federal Hocking Local SD|1.0360012857602057
+Trimble Local SD|1.379980563654033
+Minster Local SD|1.0460397971127584
+New Bremen Local SD|0.6571237607218448
+New Knoxville Local SD|0.5042293749313413
+Waynesfield-Goshen Local SD|0.5521485877568963
+St Clairsville-Richland City|0.6069701103807515
+Shadyside Local SD|1.0993462376618381
+Union Local SD|1.0147252747252746
+Eastern Local SD|1.116770926422401
+Fayetteville-Perry Local SD|1.1975240715268225
+Western Brown Local SD|1.2503968253968254
+Ripley-Union-Lewis Local SD|1.1401893399040333
+Edgewood City SD|1.2740941582450087
+Fairfield City SD|1.1221966298945327
+Lakota Local SD|0.4371197766031714
+Madison Local SD|1.2014084507042253
+New Miami Local SD|1.125
+Ross Local SD|1.1690985732814527
+Talawanda City SD|1.3403699673558216
+Brown Local SD|1.1098815763929335
+Graham Local SD|1.5891608391608392
+Triad Local SD|1.9651464590285503
+West Liberty-Salem Local SD|0.525
+Greenon Local SD|0.43655604643994655
+Tecumseh Local SD|0.5305128205128206
+Northeastern Local SD|0.5355789904781407
+Northwestern Local SD|1.2799923342276733
+Southeastern Local SD|0.6391278727165587
+Clark-Shawnee Local SD|1.1840269125342637
+Batavia Local SD|1.107161733615222
+Bethel-Tate Local SD|1.0561697801499554
+Clermont-Northeastern Local|1.1242770280290673
+Felicity-Franklin Local SD|1.3621760872859525
+Goshen Local SD|1.3426573426573427
+West Clermont Local SD|1.1471652593486128
+Williamsburg Local SD|1.2462320364528567
+Blanchester Local SD|1.3234845596645064
+Clinton-Massie Local SD|1.2696679295743258
+East Clinton Local SD|1.315100815100815
+Beaver Local SD|0.5997238742565846
+Crestview Local SD|1.266136489735528
+Southern Local SD|1.1498461843802719
+United Local SD|0.5272368745378359
+Ridgewood Local SD|1.044375
+River View Local SD|0.946655577996911
+Buckeye Central Local SD|1.0263921514439684
+Colonel Crawford Local SD|1.1921672333459261
+Wynford Local SD|1.1286205203730977
+Cuyahoga Heights Local SD|1.0973579442634818
+Independence Local SD|1.2179264407761368
+Olmsted Falls City SD|1.2467151027979595
+Orange City SD|0.7108031062616731
+Richmond Heights Local SD|1.1349925828251195
+Solon City SD|1.1761061946902656
+Ansonia Local SD|1.2076303680981595
+Arcanum Butler Local SD|1.349875930521092
+Franklin-Monroe Local SD|1.2247254827716774
+Mississinawa Valley Local SD|1.2576808721506443
+Tri-Village Local SD|0.5764867652114128
+Ayersville Local SD|0.577331759149941
+Central Local SD|0.6363636363636364
+Big Walnut Local SD|1.1012672945006394
+Buckeye Valley Local SD|1.147055222235827
+Olentangy Local SD|1.0761888720453652
+Berlin-Milan Local SD|1.3120560999730289
+Kelleys Island Local SD|1.140488460676675
+Margaretta Local SD|1.228009960293425
+Perkins Local SD|1.231330092797172
+Vermilion Local SD|1.1437156771319035
+Amanda-Clearcreek Local SD|1.1202583837273228
+Berne Union Local SD|1.2088904951210697
+Bloom Carroll Local SD|1.2502704652001442
+Fairfield Union Local SD|1.0781200880226345
+Liberty Union-Thurston Local|1.1449383638401196
+Pickerington Local SD|1.3859611231101512
+Walnut Township Local SD|0.5513844239344602
+Miami Trace Local SD|0.7101153291686689
+Canal Winchester Local SD|0.5836531948521111
+Hamilton Local SD|0.5008785529715762
+Gahanna-Jefferson City SD|1.0307708575658243
+Groveport Madison Local SD|1.0448459780124089
+Plain Local SD|1.20304454891426
+Reynoldsburg City SD|1.4059057828481512
+Hilliard City SD|1.2157284570335842
+Dublin City SD|1.1026180458158017
+Archbold-Area Local SD|1.175614079513801
+Evergreen Local SD|1.2742699892982725
+Gorham Fayette Local SD|1.2334889926617745
+Pettisville Local SD|1.3669064748201438
+Pike-Delta-York Local SD|1.203767972235994
+Swanton Local SD|1.2585969738651994
+Berkshire Local SD|1.2381210478771454
+Cardinal Local SD|1.1545641217099123
+Chardon Local SD|0.7413953488372093
+Kenston Local SD|0.6243217363549314
+Ledgemont Local SD|0.5448229920060906
+Newbury Local SD|0.6376746785913918
+West Geauga Local SD|0.5057583274273565
+Beavercreek City SD|0.6766535351441012
+Cedar Cliff Local SD|1.1087055814378368
+Greeneview Local SD|1.0751558531516971
+Sugarcreek Local SD|1.170201917193555
+Rolling Hills Local SD|1.1496966249525977
+Finneytown Local SD|1.0822799904602909
+Forest Hills Local SD|1.1647727272727273
+Northwest Local SD|1.3492304769143075
+Oak Hills Local SD|1.0913043478260869
+Southwest Local SD|1.2021693281108767
+Three Rivers Local SD|1.281673640167364
+Arcadia Local SD|1.3107777596608512
+Arlington Local SD|1.26112338277059
+Cory-Rawson Local SD|1.2871452420701168
+Liberty Benton Local SD|1.1228346456692913
+McComb Local SD|0.5623626615100642
+Van Buren Local SD|0.6867480860371855
+Vanlue Local SD|0.5585913782635095
+Hardin Northern Local SD|0.5413830168398424
+Ridgemont Local SD|0.9060302390998594
+Riverdale Local SD|1.1437056014906253
+Upper Scioto Valley Local SD|1.1625476627594973
+Conotton Valley Union Local|1.1480189384500374
+Holgate Local SD|1.1208912116627698
+Liberty Center Local SD|1.1769538188277087
+Patrick Henry Local SD|1.2097037238379995
+Bright Local SD|1.1669004207573632
+Fairfield Local SD|1.2618924952773485
+Lynchburg-Clay Local SD|1.3444404201376312
+East Holmes Local SD|1.3914571981015995
+West Holmes Local SD|1.2995365005793742
+Monroeville Local SD|1.3015803336259877
+New London Local SD|1.1224272533711852
+South Central Local SD|0.5050412465627865
+Western Reserve Local SD|1.3201010465535907
+Oak Hill Union Local SD|0.5606746194981489
+Edison Local SD|1.0853242320819112
+Indian Creek Local SD|1.1907627894805703
+Centerburg Local SD|1.1255784061696659
+Danville Local SD|1.2711348057882712
+East Knox Local SD|1.1337287678619574
+Fredericktown Local SD|1.1117939021507919
+Kirtland Local SD|1.1712570160553453
+Painsville Township Local SD|1.4243719243719244
+Dawson-Bryant Local SD|1.290219702338767
+Fairland Local SD|1.4436172542150207
+Rock Hill Local SD|1.3403873744619799
+South Point Local SD|1.2720987654320988
+Symmes Valley Local SD|1.1034188034188035
+Johnstown-Monroe Local SD|0.595
+Lakewood Local SD|0.5710141693629365
+Licking Heights Local SD|0.4944039429099497
+Licking Valley Local SD|0.5200273099681384
+North Fork Local SD|0.5574462949553464
+Northridge Local SD|0.5648487915981273
+Southwest Licking Local SD|1.0683396818283666
+Benjamin Logan Local SD|1.1576521621255254
+Indian Lake Local SD|1.1975153545505304
+Riverside Local SD|1.1767191701882442
+Avon Local SD|1.4265822784810127
+Avon Lake City SD|1.1511965693733572
+Clearview Local SD|1.0656877897990726
+Columbia Local SD|1.1938020351526364
+Firelands Local SD|1.1953508518625469
+Keystone Local SD|1.350195938724617
+Midview Local SD|1.1289817232375978
+Anthony Wayne Local SD|1.2769757768534378
+Ottawa Hills Local SD|1.158080919743533
+Springfield Local SD|1.2038786673296866
+Washington Local SD|0.6175533797333963
+Jefferson Local SD|0.39809926082365366
+Jonathan Alder Local SD|0.6064041863942188
+Madison-Plains Local SD|1.0444614376228971
+Austintown Local SD|1.0624314108035606
+Boardman Local SD|1.0744834846690354
+Canfield Local SD|1.2010142273559656
+Jackson-Milton Local SD|1.0749138159639353
+Lowellville Local SD|1.0455241009946443
+Poland Local SD|1.3315926892950392
+Sebring Local SD|1.17900769114764
+South Range Local SD|1.183785431270954
+West Branch Local SD|1.246283225709566
+Elgin Local SD|1.250722682597803
+Pleasant Local SD|1.4583041345480028
+Ridgedale Local SD|0.5855072463768116
+River Valley Local SD|0.5492415666742133
+Black River Local SD|0.7622661968013011
+Cloverleaf Local SD|0.9993338267949667
+Highland Local SD|1.2842857142857143
+Meigs Local SD|1.2156708595387842
+Marion Local SD|1.1797457255589654
+Parkway Local SD|1.075301978925726
+St Henry Consolidated Local|1.116601058775621
+Fort Recovery Local SD|1.1241488519398257
+Bethel Local SD|1.3274714828897338
+Miami East Local SD|1.1997729852440409
+Newton Local SD|1.3135849056603774
+Switzerland Of Ohio Local SD|1.3413886384129847
+Brookville Local SD|1.2543262687147578
+Jefferson Township Local SD|1.1791044776119404
+Trotwood-Madison City SD|1.1755223880597014
+Mad River Local SD|0.6208120701131573
+New Lebanon Local SD|0.49473567549595476
+Northmont City SD|0.5043166274245992
+Valley View Local SD|1.0727510087823404
+Huber Heights City SD|0.9778447823807027
+Morgan Local SD|1.17675395256917
+Cardington-Lincoln Local SD|1.1077033664789744
+Northmor Local SD|1.0950517193178642
+East Muskingum Local SD|1.1716407254033985
+Franklin Local SD|1.2200803212851405
+Maysville Local SD|1.1941605839416058
+Tri-Valley Local SD|1.3541350531107739
+West Muskingum Local SD|1.3525205577404362
+Noble Local SD|1.2281115037298782
+Benton Carroll Salem Local S|1.2640831002796644
+Danbury Local SD|1.378175392091893
+Genoa Area Local SD|0.6164740539315658
+North Bass Local SD|0.5463677699058899
+Put-In-Bay Local SD|0.6227876106194691
+Antwerp Local SD|0.4997919267582189
+Wayne Trace Local SD|1.157109384634357
+Northern Local SD|1.126266859711956
+Logan Elm Local SD|1.1294170103667374
+Teays Valley Local SD|1.1357325785146246
+Westfall Local SD|1.1821016949152543
+Scioto Valley Local SD|1.0849300176654437
+Waverly City SD|1.4476793971570474
+Western Local SD|1.246046511627907
+Aurora City SD|1.389592123769339
+Crestwood Local SD|1.3001679261125105
+Field Local SD|1.3839946200403497
+James A Garfield Local SD|1.3873370577281192
+Rootstown Local SD|0.5315929305764121
+Southeast Local SD|1.2606344628695025
+Streetsboro City SD|0.583956492182189
+Waterloo Local SD|0.5192307692307693
+National Trail Local SD|1.0878559570936024
+Preble-Shawnee Local SD|1.2429103041190812
+Twin Valley Community Local|1.1246464646464647
+Columbus Grove Local SD|1.2879922686639285
+Continental Local SD|1.1308333333333334
+Jennings Local SD|0.21497589496358602
+Kalida Local SD|0.161427716568693
+Leipsic Local SD|0.6613856703712462
+Miller City-New Cleveland Lo|1.0156267953579226
+Ottawa-Glandorf Local SD|1.2854423150145957
+Ottoville Local SD|1.2182730503867865
+Pandora-Gilboa Local SD|1.0797775897497885
+Clear Fork Valley Local SD|1.089864158829676
+Lexington Local SD|1.1532974427994616
+Lucas Local SD|1.3362974939369443
+Plymouth-Shiloh Local SD|1.4034911043974487
+Ontario Local SD|1.2025432817527195
+Adena Local SD|1.3043565147881695
+Huntington Local SD|1.2987895519218517
+Paint Valley Local SD|1.3907358156028369
+Union Scioto Local SD|0.5566911145845858
+Zane Trace Local SD|0.6150780093383441
+Woodmore Local SD|0.9692366607097268
+Bloom-Vernon Local SD|1.0647337278106508
+Clay Local SD|1.1407772979642197
+Green Local SD|1.1906969787615913
+Minford Local SD|1.0927621861152141
+Valley Local SD|1.113210376368271
+Washington-Nile Local SD|1.1466075690419366
+Wheelersburg Local SD|1.3251467408093913
+Seneca East Local SD|1.1235530951182688
+Bettsville Local SD|1.3933910306845003
+Hopewell-Loudon Local SD|1.283381152063562
+New Riegel Local SD|1.321223709369025
+Old Fort Local SD|1.2488283865208658
+Anna Local SD|0.5974377925597438
+Botkins Local SD|0.6001351655778329
+Fairlawn Local SD|0.5545261747962942
+Fort Loramie Local SD|0.6468857910218698
+Hardin-Houston Local SD|1.0098507462686568
+Jackson Center Local SD|1.1562132957481794
+Russia Local SD|1.1970871191876002
+Canton Local SD|1.0756479410603867
+Fairless Local SD|1.1421667337897705
+Jackson Local SD|1.1143926788685523
+Lake Local SD|1.0557590557590557
+Louisville City SD|1.1332400769365274
+Marlington Local SD|1.1364205256570714
+Minerva Local SD|1.3383407306247865
+Osnaburg Local SD|1.3882803943044908
+Sandy Valley Local SD|0.5341926596477418
+Tuslaw Local SD|0.6415402567094516
+Woodridge Local SD|0.48814131189838245
+Copley-Fairlawn City SD|0.49500299820107935
+Coventry Local SD|1.0699965233514892
+Manchester Local SD|1.0162846047851686
+Hudson Local SD|1.0687039445166884
+Mogadore Local SD|1.056929955290611
+Nordonia Hills City SD|1.2496705227705374
+Revere Local SD|1.0804711893272778
+Twinsburg City SD|1.2169167803547067
+Bloomfield-Mespo Local SD|1.2116935483870968
+Bristol Local SD|1.3257238307349666
+Brookfield Local SD|1.1899052407658093
+Champion Local SD|1.2714804356595402
+Mathews Local SD|1.1757563694267517
+Howland Local SD|0.997383407726643
+Joseph Badger Local SD|0.4276944663684995
+Lakeview Local SD|0.5844707988364287
+Liberty Local SD|0.541072030565232
+Lordstown Local SD|0.5519541305874093
+Maplewood Local SD|1.1304404313368845
+McDonald Local SD|0.9622747117429755
+Southington Local SD|1.191625959525471
+La Brae Local SD|1.0338269256894443
+Weathersfield Local SD|1.2565994890718137
+Garaway Local SD|1.2060367454068242
+Indian Valley Local SD|1.1680134166793719
+Strasburg-Franklin Local SD|1.274910894157756
+Tuscarawas Valley Local SD|1.0935355724088118
+Fairbanks Local SD|1.1991150442477876
+North Union Local SD|1.2207155222158108
+Lincolnview Local SD|1.277080517474416
+Vinton County Local SD|1.2844666250779788
+Carlisle Local SD|0.7366751269035533
+Springboro Community City SD|0.45790359154414456
+Kings Local SD|0.6477877819730855
+Little Miami Local SD|0.5661209685324968
+Mason City SD|1.2154775863624063
+Wayne Local SD|0.9657541065206571
+Fort Frye Local SD|1.1465459423205902
+Frontier Local SD|1.2213984259153645
+Warren Local SD|1.012566322256353
+Wolf Creek Local SD|1.1021600326042658
+Chippewa Local SD|1.151044456347081
+Dalton Local SD|1.090595009596929
+North Central Local SD|0.7124820659971306
+Triway Local SD|1.3572223768438632
+Edgerton Local SD|1.2436227474842032
+Edon-Northwest Local SD|0.5339086294416243
+Millcreek-West Unity Local S|1.0438735177865612
+Stryker Local SD|0.5399603698811096
+Eastwood Local SD|0.9684356944147229
+Elmwood Local SD|1.0472794202231681
+North Baltimore Local SD|1.1394667447992968
+Northwood Local SD|1.0591972278371353
+Otsego Local SD|1.2380583526981668
+Mohawk Local SD|1.1678540894841836
+Ohio Valley Local SD|1.1862334617317032
+College Corner Local SD|1.089844329132691
+Gallia County Local SD|1.418311111111111
+East Guernsey Local SD|1.1840472226426517
+Tri-County North Local SD|1.1975308641975309
+Monroe Local SD|1.2799488677867057

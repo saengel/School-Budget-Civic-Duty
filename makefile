@@ -5,36 +5,39 @@
 
 # QUESTION: Is there a relationship between school district funding increases and percent young voter participation increases in the state of Ohio?
 
-# Note: PerPupilExpenditures.xlsx.aspx had to be manually downloaded as a csv since the .aspx prevented us from modifying it any other way
+# Note: PerPupilExpenditures.xlsx.aspx had to be manually downloaded as a csv since the .aspx prevented us from modifying it any other way (as did district_size_2004.csv)
 
 all: graph.pdf
+
+clean:
+	rm rawVoterData/raw04_1_22.txt rawVoterData/raw04_23_44.txt rawVoterData/raw04_45_66.txt rawVoterData/raw04_67_88.txt rawVoterData/raw08_1_22.txt rawVoterData/raw08_23_44.txt rawVoterData/raw08_45_66.txt rawVoterData/raw08_67_88.txt election2008_18or19.txt election2004_18or19.txt 2004_DistrictVotes.txt 2008_DistrictVotes.txt clean_PerPupilExpenditures.txt 2000_budget.txt 2004_budget.txt budget_increase_per_dist.txt percent_voters_by_dist.txt twelfthGradeDistSize.txt final_data.txt graph.pdf
 
 # Raw Voter Data By DISTRICT 
 # Reduced into files with the DOB, City school district and
 # whether or not they participated in the 2004 election
-raw04_1_22.txt: OhioStateVoterFiles/SWVF_1_22.txt.gz
+rawVoterData/raw04_1_22.txt: OhioStateVoterFiles/SWVF_1_22.txt.gz
 	zcat OhioStateVoterFiles/SWVF_1_22.txt.gz | cut -d "," -f 8,30,56 > rawVoterData/raw04_1_22.txt
 
-raw04_23_44.txt: OhioStateVoterFiles/SWVF_23_44.txt.gz
+rawVoterData/raw04_23_44.txt: OhioStateVoterFiles/SWVF_23_44.txt.gz
 	zcat OhioStateVoterFiles/SWVF_23_44.txt.gz | cut -d "," -f 8,30,56 > rawVoterData/raw04_23_44.txt
 
-raw04_45_66.txt: OhioStateVoterFiles/SWVF_45_66.txt.gz
+rawVoterData/raw04_45_66.txt: OhioStateVoterFiles/SWVF_45_66.txt.gz
 	zcat OhioStateVoterFiles/SWVF_45_66.txt.gz | cut -d "," -f 8,30,56 > rawVoterData/raw04_45_66.txt
 
-raw04_67_88.txt: OhioStateVoterFiles/SWVF_67_88.txt.gz
+rawVoterData/raw04_67_88.txt: OhioStateVoterFiles/SWVF_67_88.txt.gz
 	zcat OhioStateVoterFiles/SWVF_67_88.txt.gz | cut -d "," -f 8,30,56 > rawVoterData/raw04_67_88.txt
 
 # Repeating the same process for the 2008 election
-raw08_1_22.txt: OhioStateVoterFiles/SWVF_1_22.txt.gz
+rawVoterData/raw08_1_22.txt: OhioStateVoterFiles/SWVF_1_22.txt.gz
 	zcat OhioStateVoterFiles/SWVF_1_22.txt.gz | cut -d "," -f 8,30,71 > rawVoterData/raw08_1_22.txt
 
-raw08_23_44.txt: OhioStateVoterFiles/SWVF_23_44.txt.gz
+rawVoterData/raw08_23_44.txt: OhioStateVoterFiles/SWVF_23_44.txt.gz
 	zcat OhioStateVoterFiles/SWVF_23_44.txt.gz | cut -d "," -f 8,30,71 > rawVoterData/raw08_23_44.txt
 
-raw08_45_66.txt: OhioStateVoterFiles/SWVF_45_66.txt.gz
+rawVoterData/raw08_45_66.txt: OhioStateVoterFiles/SWVF_45_66.txt.gz
 	zcat OhioStateVoterFiles/SWVF_45_66.txt.gz | cut -d "," -f 8,30,71 > rawVoterData/raw08_45_66.txt
 
-raw08_67_88.txt: OhioStateVoterFiles/SWVF_67_88.txt.gz
+rawVoterData/raw08_67_88.txt: OhioStateVoterFiles/SWVF_67_88.txt.gz
 	zcat OhioStateVoterFiles/SWVF_67_88.txt.gz | cut -d "," -f 8,30,71 > rawVoterData/raw08_67_88.txt
 
 # Creating a composite file grepping on birthdays (had to be born in either 89 or 90 to be 18 or 19

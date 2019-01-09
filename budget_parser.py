@@ -25,8 +25,6 @@ if found:
     # Extract the school district from the csv
     info = subprocess.getoutput('less PerPupilAllExpenditures.csv | cut -d "," -f 2')
     districts = info.split('\n')
-
-    # print(districts)
     
     # counter - starting at 1 to avoid header
     j = 1
@@ -35,27 +33,36 @@ if found:
     for each in headers:
         print(each + "|", end="")
     print()
+
     # Print comma stripped budget as pipe delimited
-    for i in range(0, len(all_num)-17, 17):
-        print(districts[j] + "|", end="")
-        print(all_num[i], end="")
-        print(all_num[i+1], end="")
-        print(all_num[i+2], end="")
-        print(all_num[i+3], end="")
-        print(all_num[i+4], end="")
-        print(all_num[i+5], end="")
-        print(all_num[i+6], end="")
-        print(all_num[i+7], end="")
-        print(all_num[i+8], end="")
-        print(all_num[i+9], end="")
-        print(all_num[i+10], end="")
-        print(all_num[i+11], end="")
-        print(all_num[i+12], end="")
-        print(all_num[i+13], end="")
-        print(all_num[i+14], end="")
-        print(all_num[i+15], end="")
-        print(all_num[i+16], end="")
-        print(all_num[i+17])
-        j = j + 1
+
+    # Trying and except because of out of bounds
+    # issues that need to be circumvented
+
+    try:
+        for i in range(0, len(all_num)-18, 17):
+            print(districts[j] + "|", end="")
+            print(all_num[i], end="")
+            print(all_num[i+1], end="")
+            print(all_num[i+2], end="")
+            print(all_num[i+3], end="")
+            print(all_num[i+4], end="")
+            print(all_num[i+5], end="")
+            print(all_num[i+6], end="")
+            print(all_num[i+7], end="")
+            print(all_num[i+8], end="")
+            print(all_num[i+9], end="")
+            print(all_num[i+10], end="")
+            print(all_num[i+11], end="")
+            print(all_num[i+12], end="")
+            print(all_num[i+13], end="")
+            print(all_num[i+14], end="")
+            print(all_num[i+15], end="")
+            print(all_num[i+16], end="")
+            print(all_num[i+17])
+            j = j + 1
+
+    except:
+        j = 0
         
 f.close()

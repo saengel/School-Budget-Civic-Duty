@@ -2,7 +2,7 @@
 import re
 
 # Import the file of budget increase percentages
-f_budget = open("budget_increase_per_district.txt", "rt")
+f_budget = open("budget_increase_per_dist.txt", "rt")
 
 # Load budget into a dictionary
 # with the non-blank reformatted district as a key
@@ -14,11 +14,14 @@ budget_line = f_budget.readline()
 while budget_line:
     parts = budget_line.split("|")
 
+    # print(parts)
+    
     # checking for blank
     if parts[0] != "":
         dist = "\"" + parts[0].upper() + "\""
-        increase = parts[1]
-
+        try: increase = parts[1]
+        except: increase = 0
+        
         budget[dist] = increase
 
     budget_line = f_budget.readline()

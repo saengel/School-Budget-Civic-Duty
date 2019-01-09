@@ -56,7 +56,7 @@ colors = [random.random() for i in range(N)]
 
 # Make a list of circle sizes
 # LATER - somehow based on census data?
-areas = [areas[i]*0.3 for i in range(len(areas))]
+areas = [areas[i]*0.1 for i in range(len(areas))]
 
 # Make the scatter plot
 plt.scatter(x, y, c = colors, s = areas, alpha = 0.5)
